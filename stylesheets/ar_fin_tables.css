@@ -1,0 +1,185 @@
+/* CSS styling for the annual report 2016 - Jocelyn McIntosh */
+
+body {
+	font-family: Arial, sans-serif;
+}
+
+/* header styling */
+
+	
+
+/* normal table styling */
+
+	table {
+		border-collapse: collapse;
+		margin: 20px auto;
+	}
+	
+	th {
+		font-weight: bold;
+	}
+	
+/* page tables */
+
+	.all_borders {
+		margin: 10px auto!important;
+	}
+
+	.all_borders tr{
+		border: 1px solid black;
+	}
+	
+	.all_borders tr td, .all_borders tr th{
+		padding: 0px 5px;
+	}
+	
+/* column borders only table */
+
+	.columns_only {
+	border-left: 2px solid black;
+	border-right: 2px solid black;
+	text-align: right;
+	padding: 5px;
+	}
+	
+	.columns_only td {
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+	width: 8%;
+	padding: 0px 5px;
+	}
+	
+	.columns_only th {
+	border: 1px solid black;
+	padding: 0px 5px;
+	}
+	
+	.columns_only tr td:first-child {
+	 text-align: left;
+	 width: 25%;
+	}
+	
+	.columns_only tr:first-child {
+		font-weight: bold;
+	}
+	
+/* page financial tables */
+
+
+	
+	.wrapper_not_full table tr td {
+	width: 20%;
+	}
+
+	.wrapper_not_full table tr th {
+		text-align: left;
+		width: 20%;
+	}
+
+	.wrapper_not_full table tr th:nth-child(2) {
+		text-align: left;
+		width: 20%;
+	}
+
+	.wrapper_not_full table tr td:first-child {
+		text-align:left;
+		width: 45%;
+	}
+
+	.wrapper_not_full table tr td {
+		width: 20%;
+	}
+	
+	.column_bold_tri td:nth-child(2) {
+	font-weight: bold;
+	}
+	
+/* normal list styling */
+
+.wrapper_nf {
+	width:100%;
+	max-width: 800px;
+	margin: auto;
+}
+
+.wrapper_nf ol li{
+	margin: 10px 0px 10px 0px;
+}
+
+.content table {
+	width:90%;
+	margin: 20px auto;
+	border-collapse: collapse;
+}
+
+.content table tr td {
+	text-align: right;
+	width: 20%;
+}
+
+.content table tr th {
+	text-align: right;
+	width: 20%;
+}
+
+.content table tr th:nth-child(2) {
+	text-align: center;
+	width: 20%;
+}
+
+.content table tr td:first-child {
+	text-align:left;
+	width: 45%;
+}
+
+.content table tr td:nth-child(2) {
+	text-align:center;
+	width: 20%;
+}
+
+.columns_only tfoot tr td:first-child {
+	font-weight: normal;
+	padding: 8px;
+	border-bottom: 2px solid black;
+}
+
+.border_top_bottom {
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+}
+
+.border_top{
+	border-top: 2px solid black;
+}
+
+.border_bottom {
+	border-bottom: 2px solid black;
+}
+
+.column_bold td:nth-child(3) {
+	font-weight: bold;
+}
+
+.ar_fs_section_top td {
+	padding-top: 10px;
+}
+
+.ar_fs_section_bottom td {
+	padding-bottom: 10px;
+}
+
+ .lower_alpha {
+	list-style-type: lower-alpha;
+}
+
+
+table.column_bold_tri {
+    max-width: 960px;
+    min-width: 55%;
+}
+
+/* fix right of floating clumns at different screen sizes */
+
+.clearfix {
+	clear: left;
+}

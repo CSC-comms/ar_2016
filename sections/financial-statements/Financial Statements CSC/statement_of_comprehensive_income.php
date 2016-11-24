@@ -18,11 +18,10 @@
         <li><a href="fs_notes_landing.php">CSC financial statement notes</a></li>
 	</ul>
 		</div>
-        
 		<div class="col-xs-8 content" id="startContent">
 			<h1><?php echo $title ?></h1>
 			<p><em>for the year ended 30 June 2016</em></p>
-			<table>
+			<table class="column_bold">
 				<thead>
 					<tr>
 						<td>&nbsp;</td>
@@ -93,12 +92,12 @@
 					<tr>
 						<td>Total expenses</td>
 						<td>&nbsp;</td>
-						<td>89,584</td>
-						<td>13,389</td>
-						<td>73,825</td>
+						<td class="border_top_bottom">89,584</td>
+						<td class="border_top_bottom">13,389</td>
+						<td class="border_top_bottom">73,825</td>
 						<td>&nbsp;</td>
 					</tr>
-					<tr>
+					<tr class="ar_fs_section_top">
 						<td>LESS:</td>
 						<td>&nbsp;</td>
 						<td>&nbsp;</td>
@@ -149,28 +148,28 @@
 					<tr>
 						<td>Total own-source revenue</td>
 						<td>&nbsp;</td>
-						<td>99,346</td>
-						<td>13,745</td>
-						<td>76,825</td>
+						<td class="border_top_bottom">99,346</td>
+						<td class="border_top_bottom">13,745</td>
+						<td class="border_top_bottom">76,825</td>
 						<td>&nbsp;</td>
 					</tr>
-					<tr>
+					<tr class="ar_fs_section_top">
 						<td>Net contribution by services</td>
 						<td>&nbsp;</td>
-						<td>9,762</td>
-						<td>356</td>
-						<td>3,000</td>
+						<td class="border_top_bottom">9,762</td>
+						<td class="border_top_bottom">356</td>
+						<td class="border_top_bottom">3,000</td>
 						<td>&nbsp;</td>
 					</tr>
-					<tr>
+					<tr class="ar_fs_section_top">
 						<td>Surplus for the year</td>
 						<td>&nbsp;</td>
-						<td>9,762</td>
-						<td>356</td>
-						<td>3,000</td>
+						<td class="border_top_bottom">9,762</td>
+						<td class="border_top_bottom">356</td>
+						<td class="border_top_bottom">3,000</td>
 						<td>&nbsp;</td>
 					</tr>
-					<tr>
+					<tr class="ar_fs_section_top">
 						<td>OTHER COMPREHENSIVE INCOME</td>
 						<td>&nbsp;</td>
 						<td>&nbsp;</td>
@@ -189,17 +188,17 @@
 					<tr>
 						<td>Total other comprehensive income</td>
 						<td>&nbsp;</td>
-						<td>1,172</td>
-						<td>-</td>
-						<td>-</td>
+						<td class="border_top_bottom">1,172</td>
+						<td class="border_top_bottom">-</td>
+						<td class="border_top_bottom">-</td>
 						<td>&nbsp;</td>
 					</tr>
-					<tr>
+					<tr class="ar_fs_section_top">
 						<td>Total comprehensive income</td>
 						<td>&nbsp;</td>
-						<td>10,934</td>
-						<td>356</td>
-						<td>3,000</td>
+						<td class="border_top_bottom">10,934</td>
+						<td class="border_top_bottom">356</td>
+						<td class="border_top_bottom">3,000</td>
 						<td>&nbsp;</td>
 					</tr>
 				</tbody>

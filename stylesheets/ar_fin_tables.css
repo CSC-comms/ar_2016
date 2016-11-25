@@ -183,3 +183,29 @@ table.column_bold_tri {
 .clearfix {
 	clear: left;
 }
+
+/* CSC specific table stylings */
+
+.content table.csc tbody tr td:not(:first-child), .content table.csc thead tr th:not(:first-child), .content table.csc thead tr td:not(:first-child)  {
+	width: 10%;
+}
+
+
+.content table.csc-tri thead th:first-child, .content table.csc-tri thead th:last-child, .content table.csc-tri tbody td:first-child, .content table.csc-tri tbody td:last-child {
+	width: 20%;
+	text-align: right;
+	padding: 0px 20px 0px 20px;
+}
+
+.content table.csc-tri thead th:not(first-child), .content table.csc-tri tbody td:not(first-child) {
+	width: 60%;
+	text-align: left;	
+}
+
+.content table.long-last thead th, .content table.long-last tbody td {
+	width: 20%;
+}
+
+.content table.long-last thead th:last-child, .content table.long-last tbody td:last-child {
+	width: 45%;
+}

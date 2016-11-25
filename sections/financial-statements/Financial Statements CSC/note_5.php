@@ -34,14 +34,14 @@
 			<h1><?php echo $title ?></h1>
 	<h3>5.1: Reconciliation of the Opening and Closing Balances of Property, Plant and Equipment and Intangibles</h3>
 		<p>Reconciliation of the opening and closing balances of property, plant and equipment and intangibles for 2016</p>
-		<table>
+		<table class="column_bold">
 			<thead>
 				<tr>
-					<th>&nbsp;</th>
-					<th>Leasehold Improvements<br> $’000</th>
-					<th>Property, Plant and Equipment<br> $’000</th>
-					<th>Intangibles - Computer Software<sup>1</sup><br> $’000</th>
-					<th>Total<br> $’000</th>
+					<th class="border_top_bottom">&nbsp;</th>
+					<th class="border_top_bottom">Leasehold Improvements<br> $’000</th>
+					<th class="border_top_bottom">Property, Plant and Equipment<br> $’000</th>
+					<th class="border_top_bottom">Intangibles - Computer Software<sup>1</sup><br> $’000</th>
+					<th class="border_top_bottom">Total<br> $’000</th>
 				</tr>
 			</thead>
 			<tbody>
@@ -67,11 +67,11 @@
 					<td>-</td>
 				</tr>
 				<tr>
-					<td>Total as at 1 July 2015</td>
-					<td>-</td>
-					<td>-</td>
-					<td>-</td>
-					<td>-</td>
+					<td class="border_top_bottom">Total as at 1 July 2015</td>
+					<td class="border_top_bottom">-</td>
+					<td class="border_top_bottom">-</td>
+					<td class="border_top_bottom">-</td>
+					<td class="border_top_bottom">-</td>
 				</tr>
 				<tr>
 					<td>Additions</td>
@@ -151,11 +151,11 @@
 					<td>31,178</td>
 				</tr>
 				<tr>
-					<td>Total as at 30 June 2016 represented by:</td>
-					<td>&nbsp;</td>
-					<td>&nbsp;</td>
-					<td>&nbsp;</td>
-					<td>&nbsp;</td>
+					<td class="border_top_bottom">Total as at 30 June 2016 represented by:</td>
+					<td class="border_top_bottom">&nbsp;</td>
+					<td class="border_top_bottom">&nbsp;</td>
+					<td class="border_top_bottom">&nbsp;</td>
+					<td class="border_top_bottom">&nbsp;</td>
 				</tr>
 				<tr>
 					<td>Gross book value</td>
@@ -173,10 +173,10 @@
 				</tr>
 				<tr>
 					<td>Total as at 30 June 2016</td>
-					<td>6,932</td>
-					<td>4,117</td>
-					<td>20,129</td>
-					<td>31,178</td>
+					<td class="border_top_bottom">6,932</td>
+					<td class="border_top_bottom">4,117</td>
+					<td class="border_top_bottom">20,129</td>
+					<td class="border_top_bottom">31,178</td>
 				</tr>				
 			</tbody>
 		</table>
@@ -189,14 +189,14 @@
 		</p>
 	<h3>Contractual commitments for the acquisition of property, plant, equipment and intangible assets</h3>
 		<p>CSC have contractual commitments totalling $0.330 million for the acquisition of property, plant and equipment and intangible assets.</p>
-			<table>
+			<table class="column_bold">
 			<thead>
 				<tr>
-					<th>&nbsp;</th>
-					<th>Leasehold Improvements<br> $’000</th>
-					<th>Property, Plant and Equipment<br> $’000</th>
-					<th>Intangibles - Computer Software<br> $’000</th>
-					<th>Total<br> $’000</th>
+					<th class="border_top_bottom">&nbsp;</th>
+					<th class="border_top_bottom">Leasehold Improvements<br> $’000</th>
+					<th class="border_top_bottom">Property, Plant and Equipment<br> $’000</th>
+					<th class="border_top_bottom">Intangibles - Computer Software<br> $’000</th>
+					<th class="border_top_bottom">Total<br> $’000</th>
 				</tr>
 			</thead>
 			<tbody>
@@ -222,11 +222,11 @@
 					<td>-</td>
 				</tr>
 				<tr>
-					<td>Total as at 1 July 2014</td>
-					<td>-</td>
-					<td>-</td>
-					<td>-</td>
-					<td>-</td>
+					<td class="border_top_bottom">Total as at 1 July 2014</td>
+					<td class="border_top_bottom">-</td>
+					<td class="border_top_bottom">-</td>
+					<td class="border_top_bottom">-</td>
+					<td class="border_top_bottom">-</td>
 				</tr>
 				<tr>
 					<td>Additions</td>
@@ -278,11 +278,11 @@
 					<td>-</td>
 				</tr>
 								<tr>
-					<td>Total as at 30 June 2015</td>
-					<td>-</td>
-					<td>-</td>
-					<td>-</td>
-					<td>-</td>
+					<td class="border_top_bottom">Total as at 30 June 2015</td>
+					<td class="border_top_bottom">-</td>
+					<td class="border_top_bottom">-</td>
+					<td class="border_top_bottom">-</td>
+					<td class="border_top_bottom">-</td>
 				</tr>
 				<tr>
 					<td>Total as at 30 June 2015 represented by:</td>
@@ -307,10 +307,10 @@
 				</tr>
 				<tr>
 					<td>Total as at 30 June 2015</td>
-					<td>-</td>
-					<td>-</td>
-					<td>-</td>
-					<td>-</td>
+					<td class="border_top_bottom">-</td>
+					<td class="border_top_bottom">-</td>
+					<td class="border_top_bottom">-</td>
+					<td class="border_top_bottom">-</td>
 				</tr>				
 			</tbody>
 		</table>
@@ -398,7 +398,7 @@
 				CSC has made judgements in relation to the carrying value of internally generated software. The carrying amount is based on the recoverability as assessed by management given the most recent information available, including an impairment assessment by an independent consultant as at 30 June 2016.
 			</p>
 		<h2>5.2: Other Non-Financial Assets</h2>
-			<table>
+			<table class="column_bold">
 				<thead>
 					<tr>
 						<th>&nbsp;</th>
@@ -414,8 +414,8 @@
 					</tr>
 					<tr>
 						<td>Total other non-financial assets</td>
-						<td>2,018</td>
-						<td>157</td>
+						<td class="border_top_bottom">2,018</td>
+						<td class="border_top_bottom">157</td>
 					</tr>
 					<tr>
 						<td>Other non-financial assets expected to be recovered in:</td>
@@ -434,8 +434,8 @@
 					</tr>
 					<tr>
 						<td>Total other non-financial assets</td>
-						<td>2,018</td>
-						<td>157</td>
+						<td class="border_top_bottom">2,018</td>
+						<td class="border_top_bottom">157</td>
 					</tr>
 					
 				</tbody>			

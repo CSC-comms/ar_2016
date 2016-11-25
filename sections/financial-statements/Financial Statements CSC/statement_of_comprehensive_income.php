@@ -21,7 +21,7 @@
 		<div class="col-xs-8 content" id="startContent">
 			<h1><?php echo $title ?></h1>
 			<p><em>for the year ended 30 June 2016</em></p>
-			<table class="column_bold">
+			<table class="column_bold csc">
 				<thead>
 					<tr>
 						<td>&nbsp;</td>

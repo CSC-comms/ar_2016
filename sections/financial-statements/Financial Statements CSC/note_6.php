@@ -33,7 +33,7 @@
 		<div class="col-xs-8 content" id="startContent">
 			<h1><?php echo $title ?></h1>
 	<h3>6.1: Suppliers</h3>
-	<table>
+	<table class="column_bold">
 		<thead>
 			<tr>
 				<th>&nbsp;</th>
@@ -49,8 +49,8 @@
 			</tr>	
 			<tr>
 				<td>Total suppliers</td>
-				<td>4,167</td>
-				<td>1,965</td>
+				<td  class="border_top_bottom">4,167</td>
+				<td  class="border_top_bottom">1,965</td>
 			</tr>	
 			<tr>
 				<td>Supplier payables expected to be settled in:</td>
@@ -69,8 +69,8 @@
 			</tr>	
 			<tr>
 				<td>Total suppliers</td>
-				<td>4,167</td>
-				<td>1,965</td>
+				<td  class="border_top_bottom">4,167</td>
+				<td  class="border_top_bottom">1,965</td>
 			</tr>	
 		</tbody>		
 	</table>
@@ -78,7 +78,7 @@
 		Settlement is usually made within 30 days.
 	</p>
 	<h3>6.2: Other Payables</h3>
-	<table>
+	<table class="column_bold">
 		<thead>
 			<tr>
 				<th>&nbsp;</th>
@@ -109,8 +109,8 @@
 			</tr>
 			<tr>
 				<td>Total other payables</td>
-				<td>12,939</td>
-				<td>1,313</td>
+				<td  class="border_top_bottom">12,939</td>
+				<td  class="border_top_bottom">1,313</td>
 			</tr>
 			<tr>
 				<td>Other payables expected to be settled in:</td>
@@ -129,8 +129,8 @@
 			</tr>
 			<tr>
 				<td>Total other payables</td>
-				<td>12,939</td>
-				<td>1,313</td>
+				<td  class="border_top_bottom">12,939</td>
+				<td  class="border_top_bottom">1,313</td>
 			</tr>
 		</tbody>
 	</table>

@@ -33,7 +33,7 @@
 		<div class="col-xs-8 content" id="startContent">
 			<h1><?php echo $title ?></h1>
 	<h3>3.1: Sale of Goods and Rendering of Services</h3>
-	<table>
+	<table class="column-bold">
 		<thead>
 			<tr>
 				<th>&nbsp;</th>
@@ -49,8 +49,8 @@
 			</tr>
 			<tr>
 				<td>Total sale of goods and rendering of services</td>
-				<td>99,268</td>
-				<td>13,469</td>
+				<td class="border_top_bottom">99,268</td>
+				<td class="border_top_bottom">13,469</td>
 			</tr>
 		</tbody>
 	</table>
@@ -70,7 +70,7 @@
 			Receivables for goods and services, which have 30 day terms, are recognised at the nominal amounts due less any impairment allowance account. Collectability of debts is reviewed at end of the reporting period. Allowances are made when collectability of the debt is no longer probable.
 		</p>
 	<h3>3.2: Interest</h3>
-		<table>
+		<table class="column_bold">
 		<thead>
 			<tr>
 				<th>&nbsp;</th>
@@ -86,8 +86,8 @@
 			</tr>
 			<tr>
 				<td>Total interest</td>
-				<td>78</td>
-				<td>156</td>
+				<td class="border_top_bottom">78</td>
+				<td class="border_top_bottom">156</td>
 			</tr>
 		</tbody>
 	</table>

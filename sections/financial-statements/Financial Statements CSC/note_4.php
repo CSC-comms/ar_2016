@@ -33,7 +33,7 @@
 		<div class="col-xs-8 content" id="startContent">
 			<h1><?php echo $title ?></h1>
 	<h3>4.1: Cash and Cash Equivalents</h3>
-		<table>
+		<table class="column_bold">
 			<thead>
 				<tr>
 					<th>&nbsp;</th>
@@ -54,8 +54,8 @@
 				</tr>
 				<tr>
 					<td>Total cash and cash equivalents</td>
-					<td>41,113</td>
-					<td>8,845</td>
+					<td class="border_top_bottom">41,113</td>
+					<td class="border_top_bottom">8,845</td>
 				</tr>
 			</tbody>
 		</table>
@@ -68,7 +68,7 @@
 			<li>cash in special accounts.</li>
 		</ol>
 		<h3>4.2: Trade and Other Receivables</h3>
-			<table>
+			<table class="column_bold">
 			<thead>
 				<tr>
 					<th>&nbsp;</th>
@@ -89,8 +89,8 @@
 				</tr>
 				<tr>
 					<td>Total goods and services receivables</td>
-					<td>2,910</td>
-					<td>72</td>
+					<td class="border_top_bottom">2,910</td>
+					<td class="border_top_bottom">72</td>
 				</tr>
 				<tr>
 					<td>Other receivables:</td>
@@ -119,13 +119,13 @@
 				</tr>
 				<tr>
 					<td>Total other receivables</td>
-					<td>538</td>
-					<td>634</td>
+					<td class="border_top_bottom">538</td>
+					<td class="border_top_bottom">634</td>
 				</tr>
 				<tr>
 					<td>Total trade and other receivables (gross)</td>
-					<td>3,448</td>
-					<td>706</td>
+					<td class="border_top_bottom">3,448</td>
+					<td class="border_top_bottom">706</td>
 				</tr>
 				<tr>
 					<td>Less impairment allowance</td>
@@ -134,8 +134,8 @@
 				</tr>
 				<tr>
 					<td>Total trade and other receivables (net)</td>
-					<td>3,442</td>
-					<td>706</td>
+					<td class="border_top_bottom">3,442</td>
+					<td class="border_top_bottom">706</td>
 				</tr>
 				<tr>
 					<td>Trade and other receivables (net) expected to be recovered in:</td>
@@ -154,8 +154,8 @@
 				</tr>
 				<tr>
 					<td>Total trade and other receivables (net)</td>
-					<td>3,442</td>
-					<td>706</td>
+					<td class="border_top_bottom">3,442</td>
+					<td class="border_top_bottom">706</td>
 				</tr>
 				<tr>
 					<td>Trade and other receivables (gross) are aged as follows:</td>
@@ -194,8 +194,8 @@
 				</tr>
 				<tr>
 					<td>Total trade and other receivables (gross)</td>
-					<td>3,448</td>
-					<td>706</td>
+					<td class="border_top_bottom">3,448</td>
+					<td class="border_top_bottom">706</td>
 				</tr>
 				<tr>
 					<td>Impairment allowance aged as follows:</td>
@@ -234,8 +234,8 @@
 				</tr>
 				<tr>
 					<td>Total impairment allowance</td>
-					<td>(6)</td>
-					<td>-</td>
+					<td class="border_top_bottom">(6)</td>
+					<td class="border_top_bottom">-</td>
 				</tr>				
 			</tbody>
 		</table>
@@ -249,13 +249,13 @@
 			</p>
 	<h2>Reconciliation of the Impairment Allowance</h2>
 		<h3>Movement in relation to 2016</h3>
-			<table>
+			<table class="column_bold">
 				<thead>
 					<tr>
-						<th>&nbsp;</th>
-						<th>Goods and services<br> $'000</th>
-						<th>Other receivables<br> $'000</th>
-						<th>Total<br> $'000</th>
+						<th class="border_top_bottom">&nbsp;</th>
+						<th class="border_top_bottom">Goods and services<br> $'000</th>
+						<th class="border_top_bottom">Other receivables<br> $'000</th>
+						<th class="border_top_bottom">Total<br> $'000</th>
 					</tr>
 				</thead>
 				<tbody>
@@ -290,21 +290,21 @@
 						<td>(6)</td>
 					</tr>
 					<tr>
-						<td>Total as at 30 June 2016</td>
-						<td>(6)</td>
-						<td>-</td>
-						<td>(6)</td>
+						<td class="border_top_bottom">Total as at 30 June 2016</td>
+						<td class="border_top_bottom">(6)</td>
+						<td class="border_top_bottom">-</td>
+						<td class="border_top_bottom">(6)</td>
 					</tr>
 				</tbody>
 			</table>
 		<h3>Movements in relation to 2015</h3>
-			<table>
+			<table class="column_bold">
 				<thead>
 					<tr>
-						<th>&nbsp;</th>
-						<th>Goods and services<br> $'000</th>
-						<th>Other receivables<br> $'000</th>
-						<th>Total<br> $'000</th>
+						<th class="border_top_bottom">&nbsp;</th>
+						<th class="border_top_bottom">Goods and services<br> $'000</th>
+						<th class="border_top_bottom">Other receivables<br> $'000</th>
+						<th class="border_top_bottom">Total<br> $'000</th>
 					</tr>
 				</thead>
 				<tbody>
@@ -333,10 +333,10 @@
 						<td>-</td>
 					</tr>
 					<tr>
-						<td>Total as at 30 June 2015</td>
-						<td>-</td>
-						<td>-</td>
-						<td>-</td>
+						<td class="border_top_bottom">Total as at 30 June 2015</td>
+						<td class="border_top_bottom">-</td>
+						<td class="border_top_bottom">-</td>
+						<td class="border_top_bottom">-</td>
 					</tr>
 				</tbody>
 			</table>

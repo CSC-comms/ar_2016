@@ -169,7 +169,7 @@
 			<p>
 				And, as always, on behalf of everyone at CSC, I thank our more than 725,000 superannuation members and pensioners for their continued trust in CSC as the guardian of their superannuation funds – a responsibility we all take very seriously.
 			</p>
-			<img src="../../images/images-16/pc_signature.jpg">
+			<img src="../../images/pc_signature.jpg" alt="signature of Patricia Cross, Chairman">
 			<p>
 				Patricia Cross<br>
 				Chair

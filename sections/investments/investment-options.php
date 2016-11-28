@@ -27,15 +27,15 @@
 		<thead>
 			<tr>
 				<th rowspan="2">Investment option (scheme)</th>
-				<th rowspan="2">Objective</th>
+				<th rowspan="2" class="text-left">Objective</th>
 				<th colspan="2">Risk</th>
 				<th rowspan="2">Minimum suggested time frame</th>
 				<th rowspan="2">Target asset allocation (ranges)</th>
 				<th rowspan="2">CSCri target asset allocation (ranges)</th>
 			</tr>
 			<tr>
-				<th>Band</th>
-				<th>Label</th>
+				<th class="text-left">Band</th>
+				<th class="text-left">Label</th>
 			</tr>
 		</thead>
 		<tfoot>
@@ -47,36 +47,36 @@ Risk</strong> booklet, which is part of each scheme’s <strong>Product Disclosu
 		<tbody>
 			<tr>
 				<td><strong>Cash</strong> (CSS, PSS, MilitarySuper, PSSap and CSCri)</td>
-				<td>To preserve capital and earn a pre-tax return in line with that of the Bloomberg AusBond Bank Bill Index by investing 100% in cash assets</td>
-				<td>One</td>
-				<td>Very low</td>
+				<td class="text-left">To preserve capital and earn a pre-tax return in line with that of the Bloomberg AusBond Bank Bill Index by investing 100% in cash assets</td>
+				<td class="text-left">One</td>
+				<td class="text-left">Very low</td>
 				<td>1 year</td>
 				<td>Cash 100% (100%)</td>
 				<td>Cash 100%</td>
 			</tr>
 			<tr>
 				<td><strong>Income Focused</strong> (MilitarySuper, PSSap and CSCri)</td>
-				<td>To outperform the CPI by 2% per annum over 10 years</td>
-				<td>Three</td>
-				<td>Low to medium</td>
+				<td class="text-left">To outperform the CPI by 2% per annum over 10 years</td>
+				<td class="text-left">Three</td>
+				<td class="text-left">Low to medium</td>
 				<td>5 years</td>
 				<td>Cash 30% (10–100%)<br> Fixed interest 20% (10–100%)<br> Equities 15% (0–40%)<br> Property 24% (0–35%)<br> Infrastructure 1% (0–35%)<br> Other 10% (0–70%)</td>
 				<td>Cash 35% (10–100%)<br> Fixed interest 20% (10–100%)<br> Equities 10% (0–40%)<br> Property 24% (0–35%)<br> Infrastructure 1% (0–35%)<br> Other 10% (0–70%)</td>
 			</tr>
 			<tr>
 				<td><strong>Default Fund </strong>(CSS/PSS)<br> <strong>Balanced </strong>(MilitarySuper)<br> <strong>MySuper Balanced</strong> and <strong>Balanced </strong>(PSSap)<br> <strong>Balanced</strong> (CSCri)</td>
-				<td>To outperform the CPI by 3.5% per annum over 10 years</td>
-				<td>Five</td>
-				<td>Medium to high</td>
+				<td class="text-left">To outperform the CPI by 3.5% per annum over 10 years</td>
+				<td class="text-left">Five</td>
+				<td class="text-left">Medium to high</td>
 				<td>10 years</td>
 				<td>Cash 15% (0–65%)<br> Fixed interest 14% (0–65%)<br> Equities 45% (15–75%)<br> Property 10% (5–25%)<br> Infrastructure 1% (0–20%)<br> Other 15% (0–30%)</td>
 				<td>Cash 19% (0–65%)<br> Fixed interest 15% (0–65%)<br> Equities 40% (15–75%)<br> Property 10% (5–25%)<br> Infrastructure 1% (0–20%)<br> Other 15% (0–30%)</td>
 			</tr>
 			<tr>
 				<td><strong>Aggressive </strong>(MilitarySuper, PSSap and CSCri)</td>
-				<td>To outperform the CPI by 4.5% per annum over 10 years</td>
-				<td>Six</td>
-				<td>High</td>
+				<td class="text-left">To outperform the CPI by 4.5% per annum over 10 years</td>
+				<td class="text-left">Six</td>
+				<td class="text-left">High</td>
 				<td>15 years</td>
 				<td>Cash 3% (0–35%)<br> Fixed Interest 5% (0-35%)<br> Equities 65% (20–95%)<br> Property 16% (0–50%)<br> Infrastructure 1% (0–50%)<br> Other 10% (0–70%)</td>
 				<td>Cash 3% (0–35%)<br> Fixed Interest 5% (0-35%)<br> Equities 60% (20–95%)<br> Property 16% (0–50%)<br> Infrastructure 1% (0–50%)<br> Other 15% (0–70%)</td>
@@ -103,7 +103,7 @@ Risk</strong> booklet, which is part of each scheme’s <strong>Product Disclosu
 		<thead>
 			<tr>
 				<th>Options</th>
-				<th>Objective</th>
+				<th class="text-left">Objective</th>
 				<th>1&nbsp;year (%)</th>
 				<th>3&nbsp;years (%) pa</th>
 				<th>5&nbsp;years (%) pa</th>
@@ -113,7 +113,7 @@ Risk</strong> booklet, which is part of each scheme’s <strong>Product Disclosu
 		<tbody>
 			<tr>
 				<td>Default Fund</td>
-				<td>To outperform the CPI by 3.5% per annum over 10 years</td>
+				<td class="text-left">To outperform the CPI by 3.5% per annum over 10 years</td>
 				<td>1.9</td>
 				<td>8.4</td>
 				<td>8.2</td>
@@ -121,7 +121,7 @@ Risk</strong> booklet, which is part of each scheme’s <strong>Product Disclosu
 			</tr>
 			<tr>
 				<td>Cash Investment Option</td>
-				<td>To preserve capital and earn a pre-tax return in line with that of the Bloomberg AusBond Bank Bill Index by investing 100% in cash assets</td>
+				<td class="text-left">To preserve capital and earn a pre-tax return in line with that of the Bloomberg AusBond Bank Bill Index by investing 100% in cash assets</td>
 				<td>1.8</td>
 				<td>2.0</td>
 				<td>2.5</td>
@@ -134,7 +134,7 @@ Risk</strong> booklet, which is part of each scheme’s <strong>Product Disclosu
 		<thead>
 			<tr>
 				<th>Options</th>
-				<th>Objective</th>
+				<th class="text-left">Objective</th>
 				<th>1&nbsp;year (%)</th>
 				<th>3&nbsp;years (%) pa</th>
 				<th>5&nbsp;years (%) pa</th>
@@ -144,7 +144,7 @@ Risk</strong> booklet, which is part of each scheme’s <strong>Product Disclosu
 		<tbody>
 			<tr>
 				<td>Default Fund</td>
-				<td>To outperform the CPI by 3.5% per annum over 10 years</td>
+				<td class="text-left">To outperform the CPI by 3.5% per annum over 10 years</td>
 				<td>1.7</td>
 				<td>8.3</td>
 				<td>8.2</td>
@@ -152,7 +152,7 @@ Risk</strong> booklet, which is part of each scheme’s <strong>Product Disclosu
 			</tr>
 			<tr>
 				<td>Cash Investment Option</td>
-				<td>To preserve capital and earn a pre-tax return in line with that of the Bloomberg AusBond Bank Bill Index by investing 100% in cash assets</td>
+				<td class="text-left">To preserve capital and earn a pre-tax return in line with that of the Bloomberg AusBond Bank Bill Index by investing 100% in cash assets</td>
 				<td>1.7</td>
 				<td>2.0</td>
 				<td>2.5</td>
@@ -165,7 +165,7 @@ Risk</strong> booklet, which is part of each scheme’s <strong>Product Disclosu
 		<thead>
 			<tr>
 				<th>Options</th>
-				<th>Objective</th>
+				<th class="text-left">Objective</th>
 				<th>1&nbsp;year (%)</th>
 				<th>3&nbsp;years (%) pa</th>
 				<th>5&nbsp;years (%) pa</th>
@@ -175,7 +175,7 @@ Risk</strong> booklet, which is part of each scheme’s <strong>Product Disclosu
 		<tbody>
 			<tr>
 				<td>Cash</td>
-				<td>To preserve capital and earn a pre-tax return in line with that of the Bloomberg AusBond Bank Bill Index by investing 100% in cash assets</td>
+				<td class="text-left">To preserve capital and earn a pre-tax return in line with that of the Bloomberg AusBond Bank Bill Index by investing 100% in cash assets</td>
 				<td>1.7</td>
 				<td>2.0</td>
 				<td>2.5</td>
@@ -183,7 +183,7 @@ Risk</strong> booklet, which is part of each scheme’s <strong>Product Disclosu
 			</tr>
 			<tr>
 				<td>Income Focused</td>
-				<td>To outperform the CPI by 2% per annum over 10 years</td>
+				<td class="text-left">To outperform the CPI by 2% per annum over 10 years</td>
 				<td>6.1</td>
 				<td>6.3</td>
 				<td>5.6</td>
@@ -191,7 +191,7 @@ Risk</strong> booklet, which is part of each scheme’s <strong>Product Disclosu
 			</tr>
 			<tr>
 				<td>Balanced (default)</td>
-				<td>To outperform the CPI by 3.5% per annum over 10 years</td>
+				<td class="text-left">To outperform the CPI by 3.5% per annum over 10 years</td>
 				<td>1.9</td>
 				<td>8.3</td>
 				<td>7.3</td>
@@ -199,7 +199,7 @@ Risk</strong> booklet, which is part of each scheme’s <strong>Product Disclosu
 			</tr>
 			<tr>
 				<td>Aggressive</td>
-				<td>To outperform the CPI by 4.5% per annum over 10 years</td>
+				<td class="text-left">To outperform the CPI by 4.5% per annum over 10 years</td>
 				<td>1.5</td>
 				<td>9.9</td>
 				<td>8.3</td>
@@ -212,7 +212,7 @@ Risk</strong> booklet, which is part of each scheme’s <strong>Product Disclosu
 		<thead>
 			<tr>
 				<th>Options</th>
-				<th>Objective</th>
+				<th class="text-left">Objective</th>
 				<th>1&nbsp;year (%)</th>
 				<th>3&nbsp;years (%) pa</th>
 				<th>5&nbsp;years (%) pa</th>
@@ -222,7 +222,7 @@ Risk</strong> booklet, which is part of each scheme’s <strong>Product Disclosu
 		<tbody>
 			<tr>
 				<td>Cash</td>
-				<td>To preserve capital and earn a pre-tax return in line with that of the Bloomberg AusBond Bank Bill Index by investing 100% in cash assets</td>
+				<td class="text-left">To preserve capital and earn a pre-tax return in line with that of the Bloomberg AusBond Bank Bill Index by investing 100% in cash assets</td>
 				<td>1.8</td>
 				<td>2.0</td>
 				<td>2.6</td>
@@ -230,7 +230,7 @@ Risk</strong> booklet, which is part of each scheme’s <strong>Product Disclosu
 			</tr>
 			<tr>
 				<td>Income Focused</td>
-				<td>To outperform the CPI by 2% per annum over 10 years</td>
+				<td class="text-left">To outperform the CPI by 2% per annum over 10 years</td>
 				<td>5.7</td>
 				<td>6.2</td>
 				<td>6.4</td>
@@ -238,7 +238,7 @@ Risk</strong> booklet, which is part of each scheme’s <strong>Product Disclosu
 			</tr>
 			<tr>
 				<td>MySuper Balanced (default)</td>
-				<td>To outperform the CPI by 3.5% per annum over 10 years</td>
+				<td class="text-left">To outperform the CPI by 3.5% per annum over 10 years</td>
 				<td>1.8</td>
 				<td>8.4</td>
 				<td>8.2</td>
@@ -246,7 +246,7 @@ Risk</strong> booklet, which is part of each scheme’s <strong>Product Disclosu
 			</tr>
 			<tr>
 				<td>Ancillary Balanced</td>
-				<td>To outperform the CPI by 3.5% per annum over 10 years</td>
+				<td class="text-left">To outperform the CPI by 3.5% per annum over 10 years</td>
 				<td>1.7</td>
 				<td>8.3</td>
 				<td>8.3</td>
@@ -254,7 +254,7 @@ Risk</strong> booklet, which is part of each scheme’s <strong>Product Disclosu
 			</tr>
 			<tr>
 				<td>Aggressive</td>
-				<td>To outperform the CPI by 4.5% per annum over 10 years</td>
+				<td class="text-left">To outperform the CPI by 4.5% per annum over 10 years</td>
 				<td>1.4</td>
 				<td>10.1</td>
 				<td>9.4</td>

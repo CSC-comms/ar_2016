@@ -24,13 +24,13 @@
 	</p>
 	<table class="table three-col first-col-dark last-col-dark">
 		<caption>Table 2: Standing Board committees</caption>
-		<thead>
+		<thead class="text-left">
 			<tr>
 				<th>Committee</th>
 				<th>Purpose</th>
 				<th>Membership</th>
 			</tr>
-		</thead>
+		</thead class="text-left">
 		<tbody>
 			<tr>
 				<td>

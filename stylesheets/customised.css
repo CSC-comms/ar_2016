@@ -57,7 +57,7 @@ header h1{
 	margin-right: 6px;
 	padding: 10px 10px 15px 30px;
 	width: 40px;
-	background-image:url(../../images/home.png);
+	background-image:url(../images/home.png);
 	background-repeat: no-repeat;
 	background-position: 10px 12px;
 }
@@ -419,7 +419,7 @@ ul#snapshot li p.stat {
 
 .content a[rel~="external"] {
 	padding: 0 13px 0 0;
-	background: url(../../images/new_window.gif) no-repeat right center;
+	background: url(../images/new_window.gif) no-repeat right center;
 }
 	
 
@@ -472,7 +472,7 @@ a.backtotop {
 	display:inline-block;
 	float: right;
 	/*left: 530px;*/
-	background: url(../../images/backtotop.png) no-repeat;
+	background: url(../images/backtotop.png) no-repeat;
 	background-position: 76px 12px;
 	color: #757575;
 	margin: 1px 0;
@@ -573,7 +573,7 @@ a.backtotop {
 	
 .content ul.bottomnav a.back {
 	padding: 9px 9px 9px 26px;
-	background: url(../../images/back.png) no-repeat #DCDDDE;
+	background: url(../images/back.png) no-repeat #DCDDDE;
 	background-position: 8px 10px;
 	color: #414042;
 	margin: 5px 0;
@@ -584,7 +584,7 @@ a.backtotop {
 
 .content ul.bottomnav a.top {
 	padding: 9px 26px 9px 9px;
-	background: url(../../images/backtotop.png) no-repeat #DCDDDE;
+	background: url(../images/backtotop.png) no-repeat #DCDDDE;
 	background-position: 35px 11px;
 	color: #414042;
 	margin: 0;
@@ -595,7 +595,7 @@ a.backtotop {
 
 .content ul.bottomnav a.next {
 	padding: 9px 26px 9px 9px;
-	background: url(../../images/next.png) no-repeat center right #DCDDDE;
+	background: url(../images/next.png) no-repeat center right #DCDDDE;
 	color: #414042;
 	margin: 0;
 	border-radius: 0 8px 8px 0;
@@ -621,7 +621,7 @@ a.backtotop {
 	border: 1px solid #333;
 	padding: 1.5em 2em;
 	margin: 1.5em 0;
-	background: url(../../images/letter_bg.png) repeat;
+	background: url(../images/letter_bg.png) repeat;
 }
 
 .content .breakout {
@@ -631,19 +631,19 @@ a.backtotop {
 }
 
 .content .breakout.schemesadmin h2 {
-	background-image: url(../../images/icons/schemes_admin.png);
+	background-image: url(../images/icons/schemes_admin.png);
 	background-repeat: no-repeat;
 	background-position: 0.8em center;
 }
 
 .content .breakout.corpgovernance h2 {
-	background-image:url(../../images/icons/corporate_governance.png);
+	background-image:url(../images/icons/corporate_governance.png);
 	background-repeat: no-repeat;
 	background-position: 0.8em center;
 }
 
 .content .breakout.resource h2 {
-	background-image:url(../../images/icons/schemes_admin.png);
+	background-image:url(../images/icons/schemes_admin.png);
 	background-repeat: no-repeat;
 	background-position: 0.8em center;
 }
@@ -970,7 +970,7 @@ ul#snapshot li p.stat {
 .header {
 	height: 120px;
 	width: 420px;
-	background: url(../../images/AR-header-420.jpg);
+	background: url(../images/AR-header-420.jpg);
 	background-repeat: no-repeat;
 	margin: 0 auto;
 }
@@ -996,7 +996,7 @@ ul#snapshot li p.stat {
 	padding: 0;
 	width: 40px;
 	background-position: center;
-	background-image: url(../../images/home-large.png);
+	background-image: url(../images/home-large.png);
 }
 .container a.home:hover, .container a.home:focus {
 	padding: 0;
@@ -1120,7 +1120,7 @@ ul#snapshot li p.stat {
 	display: inline-block;
 	height: 40px;
 	width: 40px;
-	background: url(../../images/icons/menu-icon.png) center;
+	background: url(../images/icons/menu-icon.png) center;
 	background-size: auto;
 	background-repeat: no-repeat;
 	position:absolute;
@@ -1171,7 +1171,7 @@ ul#snapshot li p.stat {
 .header {
 	height: 84px;
 	width: 320px;
-	background: url(../../images/AR-header-420.jpg);
+	background: url(../images/AR-header-420.jpg);
 	background-size: 320px 84px;
 	background-repeat: no-repeat;
 	margin: 0 auto;
@@ -1198,7 +1198,7 @@ ul#snapshot li p.stat {
 	padding: 0;
 	margin: 0 10px 0 0;
 	background-position: center;
-	background-image: url(../../images/home-large.png);
+	background-image: url(../images/home-large.png);
 	background-size: 20px 19px;
 }
 

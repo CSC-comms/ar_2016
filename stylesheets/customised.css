@@ -1374,3 +1374,11 @@ ul#snapshot li p.stat {
 .scheme-table .five-or-more tr td:not(:first-child) {
 	width: 15%;
 }
+
+.table > thead.text-left > tr > th:not(:first-child), .table > tbody.text-left > tr > td:not(:first-child) {
+	text-align: left;
+}
+
+.table > thead > tr > th.text-left, .table > tbody > tr > td.text-left {
+	text-align: left;
+}

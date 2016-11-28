@@ -20,12 +20,12 @@
 			<h1><?php echo $title ?></h1>
             <table class="table first-col-dark">
 	<caption>Table 29: Index of CSC’s annual reporting requirements</caption>
-	<thead>
+	<thead class="text-left">
 		<tr>
 			<th colspan="2">Requirements under <em>Governance of Australian Government Superannuation Schemes Act 2011</em></th>
 		</tr>
 	</thead>
-	<tbody>
+	<tbody class="text-left">
 		<tr>
 			<td>Information on the performance of CSC’s functions in relation to each superannuation scheme and each superannuation Fund administered by CSC (other than the 1922 scheme, DFRB, DFRDB, DFSPB, ADF Cover and PNG) during 2015–16 as set out in GAGSS Act.</td>
 			<td>Available on pages 37–63.</td>
@@ -42,12 +42,12 @@
 </table>
 <table class="table first-col-dark">
 	<caption>Table 29: Index of CSC’s annual reporting requirements</caption>
-	<thead>
+	<thead class="text-left">
 		<tr>
 			<th colspan="2">Requirements under <em>Public Governance Accountability Amendment Act 2013</em></th>
 		</tr>
 	</thead>
-	<tbody>
+	<tbody class="text-left">
 		<tr>
 			<td>Details of the legislation establishing CSC.</td>
 			<td>Available on page 3.</td>

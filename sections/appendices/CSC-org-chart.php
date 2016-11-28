@@ -22,6 +22,7 @@
 			<h1><?php echo $title ?></h1>
          <p>CSC is structured as a fully integrated provider of
 superannuation services, please find a downloadable version of our organisational chart:</p>
+		<img src="../../images/org_chart.jpg" alt="CSC Organisational Chart">
          <p><a href="../../downloads/pdfs/Org structure_15_16.pdf">CSC organisational chart [PDF 27KB]</a></p>
 		
 

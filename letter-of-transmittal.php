@@ -37,7 +37,7 @@
 		Yours sincerely,
 	</p>
 	<p>
-		<img src="images/images-16/pc_signature.jpg">
+		<img src="images/pc_signature.jpg" alt="signature of Patricia Cross, Chairman">
 	</p>
 	<p>
 		Patricia Cross<br>

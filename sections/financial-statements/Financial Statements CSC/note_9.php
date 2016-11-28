@@ -34,7 +34,7 @@
 			<h1><?php echo $title ?></h1>
             	<h3>9.1: Special Appropriations<sup>1</sup></h3>
 		<table>
-			<thead>
+			<thead class="border_top_bottom">
 				<tr>
 					<th>&nbsp;</th>
 					<th>&nbsp;</th>
@@ -49,6 +49,11 @@
 					<th>2015 <br>$'000</th>
 				</tr>
 			</thead>
+			<tfoot>
+				<tr>
+					<td colspan="5"><sup>1</sup> Amounts exclude recoverable GST.</td>
+				</tr>
+			</tfoot>
 			<tbody>
 				<tr>
 					<td><em>Superannuation Act 1922</em> , Administered</td>
@@ -120,7 +125,7 @@
 					<td>(54)</td>
 					<td>-</td>
 				</tr>
-				<tr>
+				<tr class="border_top_bottom">
 					<td>Total</td>
 					<td>&nbsp;</td>
 					<td>&nbsp;</td>
@@ -129,12 +134,9 @@
 				</tr>
 			</tbody>	
 		</table>
-		<p>
-			<sup>1</sup> Amounts exclude recoverable GST.
-		</p>
 	<h3>9.2: Disclosure by Agent in Relation to Annual and Special Appropriations1</h3>
-		<table>
-			<thead>
+		<table class="column_bold">
+			<thead class="border_top_bottom">
 				<tr>
 					<th>2016</th>
 					<th>DFAT<sup>2</sup><br> $'000</th>
@@ -142,6 +144,14 @@
 					<th>Department of Defence<br> $'000</th>
 				</tr>
 			</thead>
+			<tfoot>
+				<tr>
+					<td colspan="5"><sup>1</sup>. Amounts exclude recoverable GST.</td>
+				</tr>
+				<tr>
+					<td colspan="5"><sup>2</sup>. Department of Foreign Affairs and Trade.</td>
+				</tr>
+			</tfoot>
 			<tbody>
 				<tr>
 					<td>Total receipts</td>
@@ -149,13 +159,13 @@
 					<td>3,321,707</td>
 					<td>1,608,049</td>
 				</tr>
-				<tr>
+				<tr class="border_bottom">
 					<td>Total payments</td>
 					<td>( 6,883)</td>
 					<td>(6,006,827)</td>
 					<td>(2,138,231)</td>
 				</tr>
-				<tr>
+				<tr class="border_bottom">
 					<td>2015</td>
 					<td>&nbsp;</td>
 					<td>&nbsp;</td>
@@ -167,7 +177,7 @@
 					<td>-</td>
 					<td>-</td>
 				</tr>
-				<tr>
+				<tr class="border_bottom">
 					<td>Total payments</td>
 					<td>-</td>
 					<td>-</td>
@@ -175,12 +185,6 @@
 				</tr>
 			</tbody>		
 		</table>
-		<p>
-			<sup>1</sup>. Amounts exclude recoverable GST.
-		</p>
-		<p>
-			<sup>2</sup>. Department of Foreign Affairs and Trade.
-		</p>
 	<h3>9.3: Compliance with Statutory Conditions for Payments from the Consolidated Revenue Fund</h3>
 		<p>
 			Section 83 of the Constitution provides that no amount may be paid out of the Consolidated Revenue Fund except under an appropriation made by law.
@@ -212,16 +216,16 @@
 		<p>
 			Both the <em>Financial Framework Legislation Amendment Act (No.2) 2012</em> (FFLA Act No.2 (2012)) and the <em>Financial Framework Legislation Amendment Act (No.1) 2013</em> (FFLA Act No.1 (2013)) require that CSC and the agency responsible for the special appropriation disclose, refer tables below, the number of recoverable overpayments made during the financial year and the balance recovered to 30 June. The following tables set out, as required by the FFLA Act No.2 and FFLA Act No.1, the number and amount of all payments made beyond legislative pre-conditions for the period 1 July 2015 to 30 June 2016:
 		</p>
-		<table>
-			<thead>
+		<table class="column_bold">
+			<thead class="border_top_bottom">
 				<tr>
 					<th>&nbsp;</th>
 					<th colspan="6|">Recoverable death payments<sup>2</sup></th>
 				</tr>
 				<tr>
 					<th>Legislation / Authority to pay<sup>1</sup></th>
-					<th colspan="3">2016</th>
-					<th colspan="3">2015</th>
+					<th colspan="3" class="border_top_bottom">2016</th>
+					<th colspan="3" class="border_top_bottom">2015</th>
 				</tr>
 				<tr>
 					<th>&nbsp;</th>
@@ -240,7 +244,7 @@
 				</tr>
 			</thead>
 			<tbody>
-				<tr>
+				<tr class="border_top_bottom">
 					<td>DFAT – Annual Administered Appropriation</td>
 					<td>&nbsp;</td>
 					<td>&nbsp;</td>
@@ -249,7 +253,7 @@
 					<td>&nbsp;</td>
 					<td>&nbsp;</td>
 				</tr>
-				<tr>
+				<tr class="border_top_bottom">
 					<td>Papua New Guinea (Staffing Assistance) Act 1973</td>
 					<td>8</td>
 					<td>13</td>
@@ -258,7 +262,7 @@
 					<td>-</td>
 					<td>-</td>
 				</tr>
-				<tr>
+				<tr class="border_top_bottom">
 					<td>Defence - Special Appropriations</td>
 					<td>&nbsp;</td>
 					<td>&nbsp;</td>
@@ -276,7 +280,7 @@
 					<td>-</td>
 					<td>-</td>
 				</tr>
-				<tr>
+				<tr class="border_top_bottom">
 					<td>Military Superannuation and Benefits Act 1973</td>
 					<td>19</td>
 					<td>69</td>
@@ -285,7 +289,7 @@
 					<td>-</td>
 					<td>-</td>
 				</tr>
-				<tr>
+				<tr class="border_top_bottom">
 					<td>Finance - Special Appropriations</td>
 					<td>&nbsp;</td>
 					<td>&nbsp;</td>
@@ -303,7 +307,7 @@
 					<td>-</td>
 					<td>-</td>
 				</tr>
-				<tr>
+				<tr class="border_top_bottom">
 					<td><em>Superannuation Act 1990</em></td>
 					<td>122</td>
 					<td>224</td>
@@ -314,11 +318,11 @@
 				</tr>
 			</tbody>
 		</table>
-		<table>
+		<table class="column_bold">
 			<thead>
 				<tr>
 					<th>&nbsp;</th>
-					<th colspan="6|">Recoverable payments<sup>3</sup></th>
+					<th colspan="6|" class="border_bottom">Recoverable payments<sup>3</sup></th>
 				</tr>
 				<tr>
 					<th>Legislation / Authority to pay<sup>1</sup></th>
@@ -341,7 +345,7 @@
 				</tr>
 			</thead>
             <tbody>
-				<tr>
+				<tr class="border_top_bottom">
 					<td>DFAT – Annual Administered Appropriation</td>
 					<td>&nbsp;</td>
 					<td>&nbsp;</td>
@@ -350,7 +354,7 @@
 					<td>&nbsp;</td>
 					<td>&nbsp;</td>
 				</tr>
-				<tr>
+				<tr class="border_top_bottom">
 					<td><em>Papua New Guinea (Staffing Assistance) Act 1973</em></td>
 					<td>-</td>
 					<td>-</td>
@@ -359,7 +363,7 @@
 					<td>-</td>
 					<td>-</td>
 				</tr>
-				<tr>
+				<tr class="border_top_bottom">
 					<td>Defence - Special Appropriations</td>
 					<td>&nbsp;</td>
 					<td>&nbsp;</td>
@@ -377,7 +381,7 @@
 					<td>-</td>
 					<td>-</td>
 				</tr>
-				<tr>
+				<tr class="border_top_bottom">
 					<td><em>Military Superannuation and Benefits Act 1973</em></td>
 					<td>41</td>
 					<td>1,380</td>
@@ -386,7 +390,7 @@
 					<td>-</td>
 					<td>-</td>
 				</tr>
-				<tr>
+				<tr class="border_top_bottom">
 					<td>Finance - Special Appropriations</td>
 					<td>&nbsp;</td>
 					<td>&nbsp;</td>
@@ -404,7 +408,7 @@
 					<td>-</td>
 					<td>-</td>
 				</tr>
-				<tr>
+				<tr class="border_top_bottom">
 					<td><em>Superannuation Act 1990</em></td>
 					<td>32</td>
 					<td>207</td>

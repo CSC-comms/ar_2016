@@ -36,7 +36,7 @@
 		<p>
 			Shown below are the values of gross assets held in Trust by CSC in its capacity as Trustee of the CSS, PSS, PSSap and MSBS. The assets comprise units in the AIT, for which CSC is also Trustee, plus cash and cash equivalents and sundry debtors.
 		</p>
-	<table>
+	<table class="column_bold">
 		<thead>
 			<tr>
 				<th>&nbsp;</th>
@@ -62,8 +62,8 @@
 			</tr>
 			<tr>
 				<td>Closing balance</td>
-				<td>3,343,013</td>
-				<td>3,789,241</td>
+				<td class="border_top_bottom">3,343,013</td>
+				<td class="border_top_bottom">3,789,241</td>
 			</tr>
 			<tr>
 				<td>PSS</td>
@@ -77,8 +77,8 @@
 			</tr>
 			<tr>
 				<td>Closing balance</td>
-				<td>17,954,263</td>
-				<td>17,898,204</td>
+				<td class="border_top_bottom">17,954,263</td>
+				<td class="border_top_bottom">17,898,204</td>
 			</tr>
 			<tr>
 				<td>PSSap</td>
@@ -92,8 +92,8 @@
 			</tr>
 			<tr>
 				<td>Closing balance</td>
-				<td>8,976,460</td>
-				<td>7,936,570</td>
+				<td class="border_top_bottom">8,976,460</td>
+				<td class="border_top_bottom">7,936,570</td>
 			</tr>
 			<tr>
 				<td>MSBS</td>
@@ -107,8 +107,8 @@
 			</tr>
 			<tr>
 				<td>Closing balance</td>
-				<td>7,327,791</td>
-				<td>6,830,533</td>
+				<td class="border_top_bottom">7,327,791</td>
+				<td class="border_top_bottom">6,830,533</td>
 			</tr>
 		</tbody>	
 	</table>

@@ -38,7 +38,7 @@
 		<p>
 			In respect of functions assumed, the net book values of assets and liabilities transferred to CSC for no consideration and recognised as at the date of transfer were:
 		</p>
-	<table>
+	<table class="column_bold">
 		<thead>
 			<tr>
 				<th>&nbsp;</th>
@@ -53,6 +53,11 @@
 				<th>$'000</th>
 			</tr>
 		</thead>
+		<tfoot>
+			<tr colspan="4">
+				<sup>1</sup> Accounting standards require CSC to take on ComSuper’s assets and liabilities at their 1 July 2015 fair value. During the course of the 2015-16 financial year, CSC identified that adjustments were required to the 30 June 2015 carrying values of ComSuper’s assets and liabilities so that they correctly represented their fair values. As such, ComSuper's 30 June 2015 asset and liability values have been adjusted for amounts identified relating to the independent valuation of fixed assets, the carrying amount (and related impairment) of intangible assets and the timing of asset purchases finalised prior to the restructure.
+			</tr>
+		</tfoot>
 		<tbody>
 			<tr>
 				<td>FUNCTIONS ASSUMED</td>
@@ -104,9 +109,9 @@
 			</tr>
 			<tr>
 				<td>Total assets recognised</td>
-				<td>52,175</td>
-				<td>2,576</td>
-				<td>54,751</td>
+				<td class="border_top_bottom">52,175</td>
+				<td class="border_top_bottom">2,576</td>
+				<td class="border_top_bottom">54,751</td>
 			</tr>
 			<tr>
 				<td>Liabilities recognised</td>
@@ -140,21 +145,18 @@
 			</tr>
 			<tr>
 				<td>Total liabilities recognised</td>
-				<td>(20,425)</td>
-				<td>(1,175)</td>
-				<td>(21,600)</td>
+				<td class="border_top_bottom">(20,425)</td>
+				<td class="border_top_bottom">(1,175)</td>
+				<td class="border_top_bottom">(21,600)</td>
 			</tr>
 			<tr>
 				<td>Net assets/(liabilities) assumed</td>
-				<td>31,750</td>
-				<td>1,401</td>
-				<td>33,151</td>
+				<td class="border_top_bottom">31,750</td>
+				<td class="border_top_bottom">1,401</td>
+				<td class="border_top_bottom">33,151</td>
 			</tr>
 		</tbody>	
 	</table>
-	<p>
-		<sup>1</sup> Accounting standards require CSC to take on ComSuper’s assets and liabilities at their 1 July 2015 fair value. During the course of the 2015-16 financial year, CSC identified that adjustments were required to the 30 June 2015 carrying values of ComSuper’s assets and liabilities so that they correctly represented their fair values. As such, ComSuper's 30 June 2015 asset and liability values have been adjusted for amounts identified relating to the independent valuation of fixed assets, the carrying amount (and related impairment) of intangible assets and the timing of asset purchases finalised prior to the restructure.
-	</p>
     <ul class="bottomnav">
     <li><a href="note_15.php" class="back">Previous &#8211; Note 15</a></li><li><a href="#topnav" class="top">Top</a></li><li><a href="note_17.php" class="next">Next &#8211 Note 17</a></li>
 	</ul>

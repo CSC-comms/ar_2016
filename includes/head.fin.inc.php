@@ -118,7 +118,7 @@ $(document).ready(function(){
 </header>
 </div>
 
-<div class="container" id="top">
+<div class="container" id="wrapper">
     	<div class="container">
         	<div class="row" role="navigation">
 				<ul id="topnav">

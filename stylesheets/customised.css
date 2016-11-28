@@ -70,8 +70,8 @@ header h1{
 	margin: 0;
 	}
 	
-#top >.container >.row {
-	background: rgb(127, 187, 66); 
+#wrapper >.container >.row {
+	background: #7fbb42; 
 	border-radius: 3px; 
 	margin-top: 10px;
 	padding: 16px 0px 0px 0px;
@@ -85,20 +85,20 @@ header h1{
 
 #topnav .col-xs-1 a {
 	text-decoration: none;
-	color: white;
+	color: #373737;
 	font-size: .8em;
 	padding: 5px 0px;
 }
 
-#topnav .col-xs-1 a:hover {
+#topnav .col-xs-1 a:hover, #topnav .col-xs-1 a.active:hover {
 	border-bottom: 1px solid #fff;
 	color: white;
 	font-size: .8em;
 }
 
 #topnav .col-xs-1 a.active {
-	border-bottom: 2px solid #fff;
-	color: #fff;
+	border-bottom: 2px solid #373737;
+	color: #373737;
 }
 
 /* snapshot page */
@@ -271,6 +271,7 @@ ul#snapshot li p.stat {
 	font-weight: bold;
 	margin-bottom: 0.6em;
 	font-size: 1.1em;
+	color: #767676;
 }
 
 .table td {
@@ -514,7 +515,7 @@ a.backtotop {
 #sidenav a.current {
 	color: #FFF;
 	text-decoration: none;
-	background:#3e842e;
+	background:#49850c;
 	display: block
 }
 
@@ -540,8 +541,6 @@ a.backtotop {
 
 .footer a:focus {
 	text-decoration: underline;
-	background-color: #FFF;
-	color: #fff;
 }
 
 .footer ul {
@@ -657,7 +656,7 @@ a.backtotop {
 }
 
 .content .breakout h2 {
-	background-color: #3e842e;
+	background-color: #49850c;
 	color: #FFF;
 	padding: 1em 1.5em 1em 4.1em;
 	margin-bottom: 1em;
@@ -1299,7 +1298,7 @@ ul#snapshot li p.stat {
 
 .callout {
 	padding: 0px;
-	border: 2px solid rgb(127, 187, 66);
+	border: 2px solid #7fbb42);
 	background-color: #e4efd7;
 }
 

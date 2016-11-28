@@ -32,7 +32,7 @@
         
 		<div class="col-xs-8 content" id="startContent">
 			<h1><?php echo $title ?></h1>
-		<table>
+		<table class="column_bold">
 		<thead>
 			<tr>
 				<th>&nbsp;</th>
@@ -63,8 +63,8 @@
 			</tr>
 			<tr>
 				<td>Difference</td>
-				<td>-</td>
-				<td>-</td>
+				<td class="border_top_bottom">-</td>
+				<td class="border_top_bottom">-</td>
 			</tr>
 			<tr>
 				<td>Reconciliation of net contribution by services to net cash from/(used by) operating activities</td>
@@ -143,8 +143,8 @@
 			</tr>
 			<tr>
 				<td>Net cash from operating activities</td>
-				<td>16,187</td>
-				<td>975</td>
+				<td class="border_top_bottom">16,187</td>
+				<td class="border_top_bottom">975</td>
 			</tr>
 		</tbody>
 	</table>

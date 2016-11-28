@@ -33,7 +33,7 @@
 		<div class="col-xs-8 content" id="startContent">
 			<h1><?php echo $title ?></h1>
             <h2>Special Accounts</h2>
-	<table>
+	<table class="all_borders">
 		<thead>
 			<tr>
 				<th rowspan="3">&nbsp;</th>

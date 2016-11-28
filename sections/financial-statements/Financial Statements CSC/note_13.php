@@ -33,7 +33,7 @@
 		<div class="col-xs-8 content" id="startContent">
 			<h1><?php echo $title ?></h1>
 	<h3>13.1: Categories of Financial Instruments</h3>
-		<table>
+		<table class="column_bold">
 			<thead>
 				<tr>
 					<th>&nbsp;</th>
@@ -69,13 +69,13 @@
 				</tr>
 				<tr>
 					<td>Total loans and receivables</td>
-					<td>44,034</td>
-					<td>9,049</td>
+					<td class="border_top_bottom">44,034</td>
+					<td class="border_top_bottom">9,049</td>
 				</tr>
 				<tr>
 					<td>Total financial assets</td>
-					<td>44,034</td>
-					<td>9,049</td>
+					<td class="border_top_bottom">44,034</td>
+					<td class="border_top_bottom">9,049</td>
 				</tr>
 				<tr>
 					<td>Financial Liabilities</td>
@@ -99,13 +99,13 @@
 				</tr>
 				<tr>
 					<td>Total financial liabilities measured at amortised cost</td>
-					<td>4,443</td>
-					<td>1,973</td>
+					<td class="border_top_bottom">4,443</td>
+					<td class="border_top_bottom">1,973</td>
 				</tr>
 				<tr>
 					<td>Carrying amount of financial liabilities</td>
-					<td>4,443</td>
-					<td>1,973</td>
+					<td class="border_top_bottom">4,443</td>
+					<td class="border_top_bottom">1,973</td>
 				</tr>
 			</tbody>
 		</table>
@@ -140,7 +140,7 @@
 				Supplier and other payables are recognised at amortised cost. Liabilities are recognised to the extent that the goods or services have been received (and irrespective of having been invoiced).
 			</p>
 		<h3>13.2: Net Gains or Losses on Financial Assets</h3>
-		<table>
+		<table class="column_bold">
 			<thead>
 				<tr>
 					<th>&nbsp;</th>
@@ -166,8 +166,8 @@
 				</tr>
 				<tr>
 					<td>Net gains on loans and receivables</td>
-					<td>78</td>
-					<td>156</td>
+					<td class="border_top_bottom">78</td>
+					<td class="border_top_bottom">156</td>
 				</tr>
 			</tbody>
 		</table>
@@ -190,8 +190,8 @@
 			CSC holds no collateral to mitigate against credit risk.
 		</p>
 	<h3>Credit quality of financial assets not past due or individually determined as impaired</h3>
-		<table>
-			<thead>
+		<table class="column_bold">
+			<thead class="border_top_bottom">
 				<tr>
 					<th rowspan="3">&nbsp;</th>
 					<th>Not past due nor impaired</th>
@@ -234,7 +234,7 @@
 					<td>-</td>
 					<td>-</td>
 				</tr>
-				<tr>
+				<tr class="border_top_bottom">
 					<td>Total</td>
 					<td>44,017</td>
 					<td>9,049</td>
@@ -244,8 +244,8 @@
 			</tbody>
 		</table>
 	<h3>Ageing of financial assets that were past due but not impaired for 2016</h3>
-		<table>
-			<thead>
+		<table class="column_bold">
+			<thead class="border_top_bottom">
 				<tr>
 					<th rowspan="2">&nbsp;</th>
 					<th>0 to 30 days</th>
@@ -279,7 +279,7 @@
 					<td>5</td>
 					<td>11</td>
 				</tr>
-				<tr>
+				<tr class="border_top_bottom">
 					<td>Total</td>
 					<td>1</td>
 					<td>-</td>
@@ -287,7 +287,7 @@
 					<td>5</td>
 					<td>11</td>
 				</tr>
-				<tr>
+				<tr class="border_top_bottom">
 					<td>Ageing of financial assets that were past due but not impaired for 2015</td>
 					<td>&nbsp;</td>
 					<td>&nbsp;</td>
@@ -311,7 +311,7 @@
 					<td>-</td>
 					<td>-</td>
 				</tr>
-				<tr>
+				<tr class="border_top_bottom">
 					<td>Total</td>
 					<td>-</td>
 					<td>-</td>
@@ -326,8 +326,8 @@
 			CSC's financial liabilities are suppliers and other payables. The exposure to liquidity risk is based on the notion that CSC will encounter difficulty in meeting its obligations associated with financial liabilities. This is highly unlikely due to funding received for specific projects and internal policies and procedures put in place to ensure there are appropriate resources to meet CSC's financial obligations.
 		</p>
 	<h3>Maturities for non-derivative financial liabilities 2016</h3>
-		<table>
-			<thead>
+		<table class="column_bold">
+			<thead class="border_top_bottom">
 				<tr>
 					<th rowspan="2">&nbsp;</th>
 					<th>on demand</th>
@@ -365,7 +365,7 @@
 					<td>-</td>
 					<td>276</td>
 				</tr>
-				<tr>
+				<tr class="border_top_bottom">
 					<td>Total</td>
 					<td>-</td>
 					<td>4,443</td>
@@ -374,7 +374,7 @@
 					<td>-</td>
 					<td>4,443</td>
 				</tr>
-				<tr>
+				<tr class="border_top_bottom">
 					<td>Maturities for non-derivative financial liabilities 2015</td>
 					<td></td>
 					<td></td>
@@ -401,7 +401,7 @@
 					<td>-</td>
 					<td>8</td>
 				</tr>
-				<tr>
+				<tr class="border_top_bottom">
 					<td>Total</td>
 					<td>-</td>
 					<td>1,973</td>

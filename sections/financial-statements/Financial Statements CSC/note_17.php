@@ -32,8 +32,8 @@
         
 		<div class="col-xs-8 content" id="startContent">
 			<h1><?php echo $title ?></h1>
-	<table>
-		<thead>
+	<table class="column_bold">
+		<thead class="border_top_bottom">
 			<tr>
 				<th rowspan="3">&nbsp;</th>
 				<th>Outcome 1<sup>1</sup></th>
@@ -44,10 +44,15 @@
 				<th>2015</th>
 			</tr>
 			<tr>
-				<th>$’000</th>
+				<th>$’000</th> 
 				<th>$’000</th>
 			</tr>
 		</thead>
+		<tfoot>
+			<tr>
+				<td colspan="3"><sup>1</sup> CSC has one outcome: Retirement and insurance benefits for scheme members and beneficiaries, including past, present and future employees of the Australian Government and other eligible employers and members of the Australian Defence Force, through investment and administration of their superannuation funds and schemes. Net costs shown included intra-government costs that were eliminated in calculating the actual Budget Outcome.</td>
+			</tr>
+		</tfoot>
 		<tbody>
 			<tr>
 				<td>Expenses</td>
@@ -79,7 +84,7 @@
 				<td>271</td>
 				<td>-</td>
 			</tr>
-			<tr>
+			<tr class="border_top_bottom">
 				<td>Total expenses</td>
 				<td>89,584</td>
 				<td>13,389</td>
@@ -104,7 +109,7 @@
 				<td>-</td>
 				<td>120</td>
 			</tr>
-			<tr>
+			<tr class="border_top_bottom">
 				<td>Total own-source income</td>
 				<td>99,346</td>
 				<td>13,745</td>
@@ -144,7 +149,7 @@
 				<td>2,018</td>
 				<td>157</td>
 			</tr>
-			<tr>
+			<tr class="border_top_bottom">
 				<td>Total Assets</td>
 				<td>77,751</td>
 				<td>9,708</td>
@@ -174,16 +179,13 @@
 				<td>1,351</td>
 				<td>-</td>
 			</tr>
-			<tr>
+			<tr class="border_top_bottom">
 				<td>Total liabilities</td>
 				<td>30,236</td>
 				<td>3,278</td>
 			</tr>
 		</tbody>
 	</table>
-	<p>
-		<sup>1</sup> CSC has one outcome: Retirement and insurance benefits for scheme members and beneficiaries, including past, present and future employees of the Australian Government and other eligible employers and members of the Australian Defence Force, through investment and administration of their superannuation funds and schemes. Net costs shown included intra-government costs that were eliminated in calculating the actual Budget Outcome.
-	</p>
     <ul class="bottomnav">
     <li><a href="note_16.php" class="back">Previous &#8211; Note 16</a></li><li><a href="#topnav" class="top">Top</a></li><li><a href="../index.php" class="next">Next &#8211 Financial statements</a></li>
 	</ul>

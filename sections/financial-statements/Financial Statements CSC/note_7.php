@@ -33,7 +33,7 @@
 		<div class="col-xs-8 content" id="startContent">
 			<h1><?php echo $title ?></h1>
 	<h3>7.1: Employee Provisions</h3>
-	<table>
+	<table class="column-bold">
 		<thead>
 			<tr>
 				<th>&nbsp;</th>
@@ -49,8 +49,8 @@
 			</tr>
 			<tr>
 				<td>Total employee provisions</td>
-				<td>11,779</td>
-				<td>-</td>
+				<td class="border_top_bottom">11,779</td>
+				<td class="border_top_bottom">-</td>
 			</tr>
 			<tr>
 				<td>Employee provisions expected to be settled in:</td>
@@ -69,8 +69,8 @@
 			</tr>
 			<tr>
 				<td>Total employee provisions</td>
-				<td>11,779</td>
-				<td>-</td>
+				<td class="border_top_bottom">11,779</td>
+				<td class="border_top_bottom">-</td>
 			</tr>
 		</tbody>
 	</table>
@@ -98,7 +98,7 @@
 			Any liability for superannuation recognised as at 30 June represents outstanding contributions.
 		</p>
 	<h3>7.2: Other Provisions</h3>
-	<table>
+	<table class="column_bold">
 		<thead>
 			<tr>
 				<th>&nbsp;</th>
@@ -119,18 +119,18 @@
 			</tr>
 			<tr>
 				<td>Total other provisions</td>
-				<td>1,351</td>
-				<td>-</td>
+				<td class="border_top_bottom">1,351</td>
+				<td class="border_top_bottom">-</td>
 			</tr>
 		</tbody>
 	</table>
-	<table>
+	<table class="column_bold">
 		<thead>
 			<tr>
-				<th>&nbsp;</th>
-				<th>Provision for onerous rent<br> $’000</th>
-				<th>Provision for restoration obligations<br> $’000</th>
-				<th>Total other provisions<br> $’000</th>
+				<th class="border_top_bottom">&nbsp;</th>
+				<th class="border_top_bottom">Provision for onerous rent<br> $’000</th>
+				<th class="border_top_bottom">Provision for restoration obligations<br> $’000</th>
+				<th class="border_top_bottom">Total other provisions<br> $’000</th>
 			</tr>
 		</thead>
 		<tbody>
@@ -183,14 +183,14 @@
 				<td>-</td>
 			</tr>
 			<tr>
-				<td>Total as at 30 June 2016</td>
-				<td>787</td>
-				<td>564</td>
-				<td>1,351</td>
+				<td class="border_top_bottom">Total as at 30 June 2016</td>
+				<td class="border_top_bottom">787</td>
+				<td class="border_top_bottom">564</td>
+				<td class="border_top_bottom">1,351</td>
 			</tr>
 		</tbody>
     </table>
-	<table>
+	<table class="column_bold">
 		<thead>
 			<tr>
 				<th>&nbsp;</th>
@@ -216,8 +216,8 @@
 			</tr>
 			<tr>
 				<td>Total other provisions</td>
-				<td>1,351</td>
-				<td>-</td>
+				<td class="border_top_bottom">1,351</td>
+				<td class="border_top_bottom">-</td>
 			</tr>
 		</tbody>
 	</table>

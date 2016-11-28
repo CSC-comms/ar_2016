@@ -57,11 +57,11 @@
 		</p>
 	<h3>14.1: Fair Value Measurement</h3>
 		<table>
-			<thead>
+			<thead class="border_top_bottom">
 				<tr>
 					<th rowspan="3">&nbsp;</th>
-					<th colspan="3">Fair value measurements at the end of the reporting period</th>
-					<th colspan="3">Valuation Technique(s) and Inputs Used</th>
+					<th colspan="3" class="border_top_bottom">Fair value measurements at the end of the reporting period</th>
+					<th colspan="3" class="border_top_bottom">Valuation Technique(s) and Inputs Used</th>
 				</tr>
 				<tr>
 					<th>2016</th>
@@ -107,14 +107,14 @@
 				</tr>
 				<tr>
 					<td>Total non-financial assets</td>
-					<td>11,049</td>
-					<td>-</td>
+					<td class="border_top_bottom">11,049</td>
+					<td class="border_top_bottom">-</td>
 					<td>&nbsp;</td>
 					<td>&nbsp;</td>
 					<td>&nbsp;</td>
 					<td>&nbsp;</td>
 				</tr>
-				<tr>
+				<tr class="border_bottom">
 					<td>Total fair value measurements of assets in the Statement of Financial Position</td>
 					<td>11,049</td>
 					<td>-</td>
@@ -140,11 +140,11 @@
 			Assets that do not transact with enough frequency or transparency to develop objective opinions of value from observable market evidence have been measured utilising the cost (depreciated replacement cost (DRC)) approach. Under the DRC approach the estimated cost to replace the asset is calculated and then adjusted to take into account its consumed economic benefit/asset obsolescence (accumulated depreciation). Consumed economic benefit/asset obsolescence has been determined based on professional judgement regarding physical, economic and external obsolescence factors relevant to the asset under consideration.
 		</p>
 	<h3>14.2: Reconciliation for Recurring Level 3 Fair Value Measurements</h3>
-		<table>
-			<thead>
+		<table class="column_bold">
+			<thead class="border_top_bottom">
 				<tr>
 					<th rowspan="4">&nbsp;</th>
-					<th colspan="6">Non-financial assets</th>
+					<th colspan="6" class="border_top_bottom">Non-financial assets</th>
 				</tr>
 				<tr>
 					<th colspan="2">Leasehold Improvements</th>
@@ -216,12 +216,12 @@
 				</tr>
 				<tr>
 					<td>Total as at 30 June</td>
-					<td>6,932</td>
-					<td>-</td>
-					<td>4,117</td>
-					<td>-</td>
-					<td>11,049</td>
-					<td>-</td>
+					<td class="border_top_bottom">6,932</td>
+					<td class="border_top_bottom">-</td>
+					<td class="border_top_bottom">4,117</td>
+					<td class="border_top_bottom">-</td>
+					<td class="border_top_bottom">11,049</td>
+					<td class="border_top_bottom">-</td>
 				</tr>
 			</tbody>
 		</table>

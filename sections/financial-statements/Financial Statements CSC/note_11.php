@@ -32,7 +32,7 @@
         
 		<div class="col-xs-8 content" id="startContent">
 			<h1><?php echo $title ?></h1>
-	<table>
+	<table class="column_bold">
 		<thead>
 			<tr>
 				<th rowspan="2">&nbsp;</th>
@@ -62,8 +62,8 @@
 			</tr>
 			<tr>
 				<td>Total short-term employee benefits</td>
-				<td>4,671,020</td>
-				<td>3,698,229</td>
+				<td class="border_top_bottom">4,671,020</td>
+				<td class="border_top_bottom">3,698,229</td>
 			</tr>
 			<tr>
 				<td>Post-employment benefits</td>
@@ -77,8 +77,8 @@
 			</tr>
 			<tr>
 				<td>Total post-employment benefits</td>
-				<td>513,522</td>
-				<td>426,199</td>
+				<td class="border_top_bottom">513,522</td>
+				<td class="border_top_bottom">426,199</td>
 			</tr>
 			<tr>
 				<td>Other long-term employee benefits:</td>
@@ -97,13 +97,13 @@
 			</tr>
 			<tr>
 				<td>Total other long-term employee</td>
-				<td>370,251</td>
-				<td>282,427</td>
+				<td class="border_top_bottom">370,251</td>
+				<td class="border_top_bottom">282,427</td>
 			</tr>
 			<tr>
 				<td>Total senior management personnel remuneration</td>
-				<td>5,554,793</td>
-				<td>4,406,855</td>
+				<td class="border_top_bottom">5,554,793</td>
+				<td class="border_top_bottom">4,406,855</td>
 			</tr>
 		</tbody>
 	</table>

@@ -45,6 +45,28 @@ header h1{
 	top: -25px;
 }
 
+.front-page {
+	position: relative;
+	width: 98%;
+	margin: auto;
+}
+
+.front-page h1 {
+	position: absolute;
+	bottom: 20%;
+	right: 5%;
+	font-family: serif;
+}
+
+.front-page h1 span.title-numbers {
+	font-size: 4.3em;
+}
+
+.front-page h1 span.title-words {
+	font-size: 1.7em;
+	color: #737373;
+}
+
 .container a.home {
 	position: relative;
 	left: 27px;

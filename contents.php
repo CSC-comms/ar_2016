@@ -73,7 +73,7 @@
           </ul>
     
 	<ul class="bottomnav">
-    <li><a href="#topnav" class="top">Top</a></li><li><a href="copyright.php" class="next">Next &#8211; Copyright statement </a></li>
+    <li><a href="index.php" class="back">Previous &#8211; Home</a></li><li><a href="#topnav" class="top">Top</a></li><li><a href="copyright.php" class="next">Next &#8211; Copyright statement </a></li>
 	</ul>
 </div>
 </div>

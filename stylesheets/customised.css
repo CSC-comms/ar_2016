@@ -268,7 +268,6 @@ ul#snapshot li p.stat {
 	border-top: solid 1px #FFF;
 	border: solid 1px #fff;
 	width: 30%;
-	vertical-align: bottom;
 }
 
 .table > thead > tr > th:not(:first-child), .table > tbody > tr > td:not(:first-child) {
@@ -515,6 +514,21 @@ a.backtotop {
 	line-height: 1em;
 	margin: 0;
 	padding: 0;
+}
+
+#sidenav p.sectiontitle a {
+	text-decoration: none;
+	color: #3e842e;
+}
+
+#sidenav p.sectiontitle a:hover {
+	color: #373737;
+	background-color: #fff;
+}
+
+#sidenav p.sectiontitle a:focus {
+	color: #3e842e;
+	background-color: #fff;
 }
 
 #sidenav ul {

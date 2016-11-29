@@ -263,7 +263,7 @@
 		</p>
 
 	<ul class="bottomnav">
-    <li><a href="index.php" class="back">Previous &#8211; Contents</a></li><li><a href="#topnav" class="top">Top</a></li><li><a href="letter-of-transmittal.php" class="next">Next &#8211; Letter of transmittal</a></li>
+    <li><a href="contents.php" class="back">Previous &#8211; Contents</a></li><li><a href="#topnav" class="top">Top</a></li><li><a href="letter-of-transmittal.php" class="next">Next &#8211; Letter of transmittal</a></li>
 	</ul>
     </div>
     </div>

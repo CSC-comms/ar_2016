@@ -246,6 +246,7 @@ ul#snapshot li p.stat {
 	border-top: solid 1px #FFF;
 	border: solid 1px #fff;
 	width: 30%;
+	vertical-align: bottom;
 }
 
 .table > thead > tr > th:not(:first-child), .table > tbody > tr > td:not(:first-child) {

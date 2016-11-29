@@ -63,6 +63,18 @@ body {
 		font-weight: bold;
 	}
 	
+	.content table.columns_only tbody tr td:nth-child(2) {
+	text-align: right;
+	}
+
+	.content table.columns_only tbody tr td:nth-child(2) {
+		text-align: right;
+	}
+
+	.content table.columns_only tbody tr td:not(:first-child), .content table.columns_only thead tr th:not(:first-child) {
+		width: 10%;
+	}
+	
 /* page financial tables */
 
 
@@ -115,6 +127,7 @@ body {
 .content table tr td {
 	text-align: right;
 	width: 20%;
+	vertical-align: bottom;
 }
 
 .content table tr th {
@@ -209,4 +222,3 @@ table.column_bold_tri {
 .content table.long-last thead th:last-child, .content table.long-last tbody td:last-child {
 	width: 45%;
 }
-

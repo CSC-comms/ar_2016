@@ -85,7 +85,7 @@
 							<td>&nbsp;</td>
 						</tr>
 						<tr>
-							<td>Funded component</td>
+							<td>Funded accrued benefits</td>
 							<td>4.1</td>
 							<td>4.6</td>
 						</tr>

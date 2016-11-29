@@ -1,5 +1,5 @@
     <div class="col-xs-3 sidenav omega" id="sidenav">
-		<p class="sectiontitle">CSC financial statements</p>
+		<p class="sectiontitle"><a href="index.php">CSC financial statements</a></p>
 		<h2><a id="top" title="Top of the page" name="top"></a>In this section</h2>
 		<ul>
 			<li><a href="note_1.php">1. Overview</a></li>

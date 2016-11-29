@@ -12,7 +12,7 @@
 		<p>© Commonwealth of Australia 2016</p>
 		<p>
 			All material presented in this publication is provided under a Creative Commons Attribution 3.0 Australia licence.</p>
-            <p><a href="http://creativecommons.org/licenses/by/3.0/au"><img src="images/creative-commons.jpg" /></a>
+            <p><a href="http://creativecommons.org/licenses/by/3.0/au"><img src="images/creative-commons.jpg" alt=" " role="presentation"/></a>
 		<p>
 			For the avoidance of doubt, this means this licence only applies to material as set out in this document. The details of the relevant licence conditions are available on the Creative Commons website (accessible using the links provided) as is the full legal code for the CC BY 3.0 AU licence (<a href="http://creativecommons.org/licenses/by/3.0/au/legalcode">creativecommons.org/licenses/by/3.0/au/legalcode</a>).
 		</p>

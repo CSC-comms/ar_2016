@@ -24,8 +24,8 @@
 				<th>Purpose</th>
 				<th>Membership</th>
 			</tr>
-		</thead class="text-left">
-		<tbody>
+		</thead>
+		<tbody class="text-left">
 			<tr>
 				<td>
 					Audit and Risk Management Committee

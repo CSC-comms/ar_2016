@@ -109,7 +109,7 @@
 </div>
                 
 <div class="row board-member">
-    <div class="col-sm-3"><img src="../../images/C_Ellison_edit.jpg" class="img-responsive img-thumbnail" alt="The Hon. Chris Ellison" /></div>
+    <div class="col-sm-3"><img src="../../images/C_Ellison.jpg" class="img-responsive img-thumbnail" alt="The Hon. Chris Ellison" /></div>
     <div class="col-sm-9">
     <h3 class="callout bg-success">The Hon. Chris Ellison</h3>
 			<h4>Appointed 1 July 2014 to 30 June 2017</h4>

@@ -7,7 +7,7 @@
     <div class="container">
     <div class="row">
 	
-    <?php include="side-nav.php" ?>
+    <?php include "side-nav.php" ?>
         
         <div class="col-xs-8 content" id="startContent">        
 		<div class="content" id="startContent">

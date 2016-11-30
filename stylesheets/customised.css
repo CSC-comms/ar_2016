@@ -29,7 +29,7 @@ header {
 	background: #90c95a;
 	background-image:url(../images/annual-report-banner.jpg);
 	background-size:cover;
-	padding: 6% 3%;
+	padding: 4% 3%;
 	text-align: right;
 	margin: auto;
 }
@@ -50,6 +50,7 @@ h1 span.head-word {
 header h1{
 	color: #666666;
 	margin-top: 2%;
+	margin-bottom: 0px;
 }
 
 

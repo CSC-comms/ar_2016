@@ -15,12 +15,12 @@
 		<thead>
 			<tr>
 				<th rowspan="2">&nbsp;</th>
-				<th>2016</th>
-				<th>2015</th>
+				<th style="text-align: center">2016</th>
+				<th style="text-align: center">2015</th>
 			</tr>
 			<tr>
-				<th>$</th>
-				<th>$</th>
+				<th style="text-align: center">$</th>
+				<th style="text-align: center">$</th>
 			</tr>
 		</thead>
 		<tbody>

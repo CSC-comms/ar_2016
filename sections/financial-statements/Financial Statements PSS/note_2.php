@@ -131,7 +131,7 @@
 				</p>
 				<table class="all_borders">
 					<thead>
-						<tr>
+						<tr class="text-top-right">
 							<th>Standard / Interpretation</th>
 							<th>Effective for annual reporting periods beginning on or after
 							</th>
@@ -179,13 +179,13 @@
 				</p>
 				<table class="all_borders">
 					<thead>
-						<tr>
+						<tr class="text-top-right">
 							<th>Standard / Interpretation</th>
 							<th>Effective for annual reporting periods</th>
 						</tr>
 					</thead>
 					<tbody>
-						<tr>
+						<tr class="text-top-right">
 							<td>AASB 2015-3 'Amendments to Australian Accounting Standards arising from the Withdrawal of AASB 1031 Materiality'</td>
 							<td>beginning on or after 1 July 2015</td>
 						</tr>

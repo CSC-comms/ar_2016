@@ -184,7 +184,7 @@
 					<div class="wrapper_not_full">
 						<table class="column_bold_tri">
 							<thead>
-								<tr>
+								<tr class="text-top-right">
 									<th>&nbsp;</th>
 									<th>Net Market Value of Investment</th>
 									<th>Net Market Value of Investment</th>

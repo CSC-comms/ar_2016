@@ -124,7 +124,7 @@
 				</p>
 				<table class="all_borders">
 					<thead>
-						<tr>
+						<tr class="text-top-right">
 							<th>Standard / Interpretation</th>
 							<th>Effective for annual reporting periods beginning on or after
 							</th>
@@ -172,7 +172,7 @@
 				</p>
 				<table class="all_borders">
 					<thead>
-						<tr>
+						<tr class="text-top-right">
 							<th>Standard / Interpretation</th>
 							<th>Effective for annual reporting periods</th>
 						</tr>

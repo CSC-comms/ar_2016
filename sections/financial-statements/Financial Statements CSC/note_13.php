@@ -170,7 +170,7 @@
 		</p>
 	<h3>Credit quality of financial assets not past due or individually determined as impaired</h3>
 		<table class="column_bold">
-			<thead class="border_top_bottom">
+			<thead class="border_top_bottom five-or-more">
 				<tr>
 					<th rowspan="3">&nbsp;</th>
 					<th>Not past due nor impaired</th>
@@ -191,7 +191,7 @@
 					<th>$'000</th>
 				</tr>
 			</thead>
-			<tbody>
+			<tbody class="five-or-more">
 				<tr>
 					<td>Cash and cash equivalents</td>
 					<td>41,113</td>
@@ -224,7 +224,7 @@
 		</table>
 	<h3>Ageing of financial assets that were past due but not impaired for 2016</h3>
 		<table class="column_bold">
-			<thead class="border_top_bottom">
+			<thead class="border_top_bottom five-or-more">
 				<tr>
 					<th rowspan="2">&nbsp;</th>
 					<th>0 to 30 days</th>
@@ -241,7 +241,7 @@
 					<th>$'000</th>
 				</tr>
 			</thead>
-			<tbody>
+			<tbody class="five-or-more">
 				<tr>
 					<td>Loans and receivables:</td>
 					<td>&nbsp;</td>
@@ -306,7 +306,7 @@
 		</p>
 	<h3>Maturities for non-derivative financial liabilities 2016</h3>
 		<table class="column_bold">
-			<thead class="border_top_bottom">
+			<thead class="border_top_bottom five-or-more">
 				<tr>
 					<th rowspan="2">&nbsp;</th>
 					<th>on demand</th>
@@ -325,7 +325,7 @@
 					<th>$'000</th>
 				</tr>
 			</thead>
-			<tbody>
+			<tbody class="five-or-more">
 				<tr>
 					<td>Trade creditors and accruals</td>
 					<td>-</td>

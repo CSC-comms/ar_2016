@@ -191,7 +191,7 @@
 					</p>
 					<table class="columns_only">
 						<thead>
-							<tr class="border_top">
+							<tr class="border_top text-top-right">
 								<th>&nbsp;</th>
 								<th>Less than 3 months</th>
 								<th>3 months to 1 year</th>
@@ -335,14 +335,14 @@
 					</p>
 					<table class="columns_only">
 						<thead>
-							<tr class="border_top">
+							<tr class="border_top text-top-right">
 								<th>&nbsp;</th>
 								<th rowspan="2">Carrying amount</th>
 								<th colspan="4">Interest rate risk $' 000</th>
 							</tr>
 						</thead>
 						<tbody>
-							<tr class="border_bottom">
+							<tr class="border_bottom text-top-right">
 								<td>&nbsp;</td>
 								<td>$'000</td>
 								<td>Changes in net assets</td>
@@ -395,7 +395,7 @@
 					</p>
 					<table class="columns_only">
 						<thead>
-							<tr class="border_top">
+							<tr class="border_top text-top-right">
 								<th style="border: none;"><strong>Financial Assets</strong></th>
 								<th>Change in price</th>
 								<th rowspan="2">Carrying amount</th>
@@ -408,7 +408,7 @@
 						</td>
 						</tfoot>
 						<tbody>
-							<tr class="border_bottom">
+							<tr class="border_bottom text-top-right">
 								<td>&nbsp;</td>
 								<td>&nbsp;</td>
 								<td>$'000</td>
@@ -538,7 +538,7 @@
 					</table>
 					<table>
 						<thead>
-							<tr class="border_top">
+							<tr class="border_top text-top-right">
 								<th style="border: none;"><strong>Financial Assets</strong></th>
 								<th>Change in price</th>
 								<th rowspan="2">Carrying amount</th>
@@ -546,7 +546,7 @@
 							</tr>
 						</thead>
 						<tbody>
-							<tr class="border_bottom">
+							<tr class="border_bottom text-top-right">
 								<td>&nbsp;</td>
 								<td>&nbsp;</td>
 								<td>$'000</td>

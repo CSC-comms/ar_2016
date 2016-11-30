@@ -195,7 +195,7 @@
 					</p>
 					<table class="columns_only">
 						<thead>
-							<tr class="border_top">
+							<tr class="border_top text-top-right">
 								<th>&nbsp;</th>
 								<th>Less than 3 months</th>
 								<th>3 months to 1 year</th>
@@ -339,7 +339,7 @@
 					</p>
 					<table class="columns_only">
 						<thead>
-							<tr class="border_top">
+							<tr class="border_top text-top-right">
 								<th>&nbsp;</th>
 								<th rowspan="2">Carrying amount</th>
 								<th colspan="4">Interest rate risk $' 000</th>
@@ -411,7 +411,7 @@
 					</p>
 					<table class="columns_only">
 						<thead>
-							<tr class="border_top">
+							<tr class="border_top text-top-right">
 								<th style="border: none;">&nbsp;</th>
 								<th>Change in price</th>
 								<th rowspan="2">Carrying amount</th>
@@ -427,7 +427,7 @@
                         </tr>
 						</tfoot>
 						<tbody>
-							<tr class="border_bottom">
+							<tr class="border_bottom text-top-right">
 								<td>&nbsp;</td>
 								<td>&nbsp;</td>
 								<td>$'000</td>
@@ -603,7 +603,7 @@
 					</p>
 					<table class="columns_only">
 						<thead>
-							<tr class="border_top_bottom">
+							<tr class="border_top_bottom text-top-right">
 								<th>&nbsp;</th>
 								<th>Level 1</th>
 								<th>Level 2</th>

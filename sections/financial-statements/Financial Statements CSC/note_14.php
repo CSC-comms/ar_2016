@@ -37,18 +37,18 @@
 	<h3>14.1: Fair Value Measurement</h3>
 		<table>
 			<thead class="border_top_bottom">
-				<tr>
+				<tr class="text-top-right">
 					<th rowspan="3">&nbsp;</th>
 					<th colspan="3" class="border_top_bottom">Fair value measurements at the end of the reporting period</th>
 					<th colspan="3" class="border_top_bottom">Valuation Technique(s) and Inputs Used</th>
 				</tr>
-				<tr>
+				<tr class="text-top-right">
 					<th>2016</th>
 					<th>2015</th>
 					<th>Category</th>
 					<th colspan="3">Valuation</th>
 				</tr>
-				<tr>
+				<tr class="text-top-right">
 					<th>$’000</th>
 					<th>$’000</th>
 					<th>(Level 1, 2 or 3)<sup>3,4,5</sup></th>
@@ -58,7 +58,7 @@
 				</tr>
 			</thead>
 			<tbody>
-				<tr>
+				<tr  class="text-top-right">
 					<td>Non-financial assets<sup>2</sup></td>
 					<td>&nbsp;</td>
 					<td>&nbsp;</td>
@@ -67,24 +67,24 @@
 					<td>&nbsp;</td>
 					<td>&nbsp;</td>
 				</tr>
-				<tr>
+				<tr  class="text-top-right">
 					<td>Leasehold improvements</td>
 					<td>6,932</td>
 					<td>-</td>
 					<td>Level 3</td>
-					<td>Depreciated replacement cost</td>
-					<td>Replacement cost new Consumed economic benefit/Obsolescence of asset</td>
-					<td rowspan="2">Significant movements in any of the inputs in isolation would result in a significantly different fair value measurement. A change in the assumption used for replacement cost is accompanied by a directionally similar change in the fair value of leasehold improvements and PP&amp;E. A change in the assumption used for consumed economic benefit/obsolescence of asset is accompanied by a directionally opposite change in the fair value of leasehold improvements and PP&amp;E.</td>
+					<td class="text-top-right">Depreciated replacement cost</td>
+					<td class="text-top-right">Replacement cost new Consumed economic benefit/Obsolescence of asset</td>
+					<td rowspan="2" class="text-top-right">Significant movements in any of the inputs in isolation would result in a significantly different fair value measurement. A change in the assumption used for replacement cost is accompanied by a directionally similar change in the fair value of leasehold improvements and PP&amp;E. A change in the assumption used for consumed economic benefit/obsolescence of asset is accompanied by a directionally opposite change in the fair value of leasehold improvements and PP&amp;E.</td>
 				</tr>
-				<tr>
+				<tr  class="text-top-right">
 					<td>Property, plant and equipment (PP&amp;E)</td>
 					<td>4,117</td>
 					<td>-</td>
 					<td>Level 3</td>
 					<td>Depreciated replacement cost</td>
-					<td>Replacement cost new Consumed economic benefit/Obsolescence of asset</td>
+					<td class="text-top-right">Replacement cost new Consumed economic benefit/Obsolescence of asset</td>
 				</tr>
-				<tr>
+				<tr  class="text-top-right">
 					<td>Total non-financial assets</td>
 					<td class="border_top_bottom">11,049</td>
 					<td class="border_top_bottom">-</td>

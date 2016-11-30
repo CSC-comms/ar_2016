@@ -137,14 +137,14 @@
 				</p>
 				<table class="all_borders long-last">
 					<thead>
-						<tr>
+						<tr class="text-top-right">
 							<th>Standard/ Interpretation</th>
 							<th>Application date for the entity <sup>1</sup></th>
 							<th>Nature of impending change/s in accounting policy and likely impact on initial application</th>
 						</tr>
 					</thead>
 					<tbody>
-						<tr>
+						<tr class="text-top-right">
 							<td>AASB 16 'Leases'</td>
 							<td>1 July 2019</td>
 							<td>AASB 16 introduces a single lessee accounting model and requires a lessee to recognise assets and liabilities for all leases with a term of more than 12 months, unless the underlying asset is of low value. A lessee is required to recognise a right-of-use asset representing its right to use the underlying leased asset and a lease liability representing its obligations to make lease payments. The principal impact for CSC on adoption of AASB 16 will be to recognise the relevant operating leases (for office accommodation) on the balance sheet as a right of use asset and as a lease liability.</td>

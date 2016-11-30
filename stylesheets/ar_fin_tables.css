@@ -33,6 +33,11 @@ body {
 		padding: 0px 5px;
 	}
 	
+	.all_borders tbody tr.text-top-right td, .all_borders thead tr.text-top-right th {
+		vertical-align: top!important;
+        text-align: left!important;
+	}
+	
 /* column borders only table */
 
 	.columns_only {
@@ -73,6 +78,11 @@ body {
 
 	.content table.columns_only tbody tr td:not(:first-child), .content table.columns_only thead tr th:not(:first-child) {
 		width: 10%;
+	}
+	
+	.columns_only tbody tr.text-top-right td, .columns_only thead tr.text-top-right th, .columns_only tbody tr td.text-top-right, .columns_only tbody tr th.text-top-right  {
+		vertical-align: top!important;
+        text-align: left!important;
 	}
 	
 /* page financial tables */
@@ -128,11 +138,13 @@ body {
 	text-align: right;
 	width: 20%;
 	vertical-align: bottom;
+	padding: 0px 3px 0px 3px;
 }
 
 .content table tr th {
 	text-align: right;
 	width: 20%;
+	padding: 0px 3px 0px 3px;
 }
 
 .content table tr th:nth-child(2) {
@@ -221,4 +233,18 @@ table.column_bold_tri {
 
 .content table.long-last thead th:last-child, .content table.long-last tbody td:last-child {
 	width: 45%;
+}
+
+.content table tbody tr td.text-left, .content table thead tr th.text-left {
+	text-align:left!important;
+}
+
+/* five or more columns */
+
+table .five-or-more tr td:first-child {
+	width: 25%;
+}
+
+table .five-or-more tr td:not(:first-child) {
+	width: 15%;
 }

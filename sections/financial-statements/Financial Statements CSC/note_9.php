@@ -23,7 +23,7 @@
 				<tr>
 					<th>Authority</th>
 					<th>Type</th>
-					<th>Purpose</th>
+					<th class="text-left">Purpose</th>
 					<th>2016 <br>$'000</th>
 					<th>2015 <br>$'000</th>
 				</tr>
@@ -37,70 +37,70 @@
 				<tr>
 					<td><em>Superannuation Act 1922</em> , Administered</td>
 					<td>Unlimited Amount</td>
-					<td>An Act to provide superannuation benefits for persons employed by the Commonwealth and by certain Commonwealth Authorities and to make provision for the families of those persons.</td>
+					<td class="text-left">An Act to provide superannuation benefits for persons employed by the Commonwealth and by certain Commonwealth Authorities and to make provision for the families of those persons.</td>
 					<td>(90,133)</td>
 					<td>-</td>
 				</tr>
 				<tr>
 					<td><em>Superannuation Act 1976</em> , Administered</td>
 					<td>Unlimited Amount</td>
-					<td>An Act to make provision for and in relation to an occupational superannuation scheme, known as the Commonwealth Superannuation Scheme, for persons employed by the Commonwealth and for certain other persons.</td>
+					<td class="text-left">An Act to make provision for and in relation to an occupational superannuation scheme, known as the Commonwealth Superannuation Scheme, for persons employed by the Commonwealth and for certain other persons.</td>
 					<td>(4,216,577)</td>
 					<td>-</td>
 				</tr>
 				<tr>
 					<td><em>Superannuation Act 1990 </em>, Administered</td>
 					<td>Unlimited Amount</td>
-					<td>An Act to make provision for and in relation to an occupational superannuation scheme for persons employed by the Commonwealth, and for certain other persons.</td>
+					<td class="text-left">An Act to make provision for and in relation to an occupational superannuation scheme for persons employed by the Commonwealth, and for certain other persons.</td>
 					<td>(1,698,336)</td>
 					<td>-</td>
 				</tr>
 				<tr>
 					<td><em>Same Sex Relationships (Equal Treatment in Commonwealth Laws - Superannuation) Act 2008</em> , Administered</td>
 					<td>Unlimited Amount</td>
-					<td>An Act to address discrimination against same-sex couples and their children in Commonwealth laws, and for other purposes.</td>
+					<td class="text-left">An Act to address discrimination against same-sex couples and their children in Commonwealth laws, and for other purposes.</td>
 					<td>(59)</td>
 					<td>-</td>
 				</tr>
 				<tr>
 					<td><em>Governance of Australian Government Superannuation Schemes Act 2011</em> - s35(3)(a) in the case of the 1922 Scheme, DFRB, DFRDB, DFSPB or PNG schemes</td>
 					<td>Unlimited Amount</td>
-					<td>An Act to make provision for any money becoming payable by CSC in respect of an action, liability, claim or demand that relates to the 1922 Scheme, DFRB, DFRDB, DFSPB or PNG schemes.</td>
+					<td class="text-left">An Act to make provision for any money becoming payable by CSC in respect of an action, liability, claim or demand that relates to the 1922 Scheme, DFRB, DFRDB, DFSPB or PNG schemes.</td>
 					<td>-</td>
 					<td>-</td>
 				</tr>
 				<tr>
 					<td><em>Governance of Australian Government Superannuation Schemes Act 2011</em> - s35(4) to reimburse the superannuation funds administered by CSC</td>
 					<td>Unlimited Amount</td>
-					<td>An Act to make provision for any money becoming payable by Commonwealth Superannuation Corporation(CSC) in respect of an action, liability, claim or demand that relates to any other cases not covered in s35(3)(a) of Governance of Australian Government Superannuation Schemes Act 2011.</td>
+					<td class="text-left">An Act to make provision for any money becoming payable by Commonwealth Superannuation Corporation(CSC) in respect of an action, liability, claim or demand that relates to any other cases not covered in s35(3)(a) of Governance of Australian Government Superannuation Schemes Act 2011.</td>
 					<td>(634)</td>
 					<td>-</td>
 				</tr>
 				<tr>
 					<td><em>Defence Forces Retirement Benefits Act 1948</em> , Administered</td>
 					<td>Unlimited Amount</td>
-					<td>An Act to provide Retirement Benefits for Members of the Defence Force of the Commonwealth, and for other purposes.</td>
+					<td class="text-left">An Act to provide Retirement Benefits for Members of the Defence Force of the Commonwealth, and for other purposes.</td>
 					<td>(47,419)</td>
 					<td>-</td>
 				</tr>
 				<tr>
 					<td><em>Defence Force Retirement &amp; Death Benefits Act 1973</em> , Administered</td>
 					<td>Unlimited Amount</td>
-					<td>An Act to make provision for and in relation to a Scheme for Retirement and Death Benefits for Members of the Defence Force.</td>
+					<td class="text-left">An Act to make provision for and in relation to a Scheme for Retirement and Death Benefits for Members of the Defence Force.</td>
 					<td>(1,506,904)</td>
 					<td>-</td>
 				</tr>
 				<tr>
 					<td><em>Military Superannuation and Benefits Act 1991</em> , Administered</td>
 					<td>Unlimited Amount</td>
-					<td>An Act to make provision for and in relation to an occupational superannuation scheme for, and the payment of other benefits to, members of the Defence Force, and for related purposes.</td>
+					<td class="text-left">An Act to make provision for and in relation to an occupational superannuation scheme for, and the payment of other benefits to, members of the Defence Force, and for related purposes.</td>
 					<td>(583,909)</td>
 					<td>-</td>
 				</tr>
 				<tr>
 					<td><em>Public Governance, Performance and Accountability Act 2013</em> Section 77</td>
 					<td>Refund</td>
-					<td>Repayments required or permitted by law (where no other appropriation for repayment exists).</td>
+					<td class="text-left">Repayments required or permitted by law (where no other appropriation for repayment exists).</td>
 					<td>(54)</td>
 					<td>-</td>
 				</tr>

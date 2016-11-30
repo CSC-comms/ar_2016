@@ -34,9 +34,24 @@ header {
 	margin: auto;
 }
 
+h1 span.head-num {
+	font-size: 1.8em;
+	font-family: serif;
+	color: #49850c;
+	
+}
+
+h1 span.head-word {
+	font-size: 1em;
+	font-family: serif;
+	color: #444444;
+}
+
 header h1{
 	color: #666666;
+	margin-top: 2%;
 }
+
 
 .crest {
 	width: 40%;

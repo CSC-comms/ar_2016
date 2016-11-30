@@ -113,7 +113,7 @@ $(document).ready(function(){
 <div class="container">
 <header>
 	<a href="index.php"><img src="images/logo.svg" alt="Australian Government logo" class="crest"></a>
-	<h1>Annual Report 2015-16</h1>
+	<h1><span class="head-num">2015-16</span> <br><span class="head-word">Annual Report</span></h1>
 </header>
 </div>
 <div class="container" id="wrapper">

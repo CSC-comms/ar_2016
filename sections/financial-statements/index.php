@@ -30,7 +30,7 @@
                 <li><a href="../../downloads/pdfs/10 CSC Financial Statements 2015-16 Signed.pdf">CSC financial statements 2015-16 [PDF 341KB]</a></li>
             </ul>
             
-            <h2>Financial Statements as accessible HTML</h2>
+            <!-- <h2>Financial Statements as accessible HTML</h2>
             <p>Please note that the HTML statements do not include the Auditor's report, the Statement by the Trustee of Commonwealth Superannuation Corporation, or the Actuary report. These reports are provided in the PDF files listed above.
             </p>
             <ul>
@@ -39,7 +39,7 @@
                 <li><a href="Financial Statements MS/financial-statement-ms.php">MilitarySuper financial statements 2015-16 [HTML]</a></li>
                 <li><a href="Financial Statements PSSap/financial-statement-pssap.php">PSSap financial statements 2015-16 [HTML]</a></li>
                 <li><a href="Financial Statements CSC/index.php">CSC financial statements 2015-16 [HTML]</a></li>          
-            </ul>
+            </ul> -->
 
           
 		  

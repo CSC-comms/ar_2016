@@ -117,17 +117,26 @@ $(document).ready(function(){
 </header>
 </div>
 <div class="container" id="wrapper">
-            <div class="container">
-                <div class="row">
-                    <ul id="topnav">
-                        <li class="col-xs-1"><a href="../../sections/introduction/about-csc.php" class="introduction">Introduction</a></li>
-                        <li class="col-xs-1"><a href="../../sections/performance/report-from-the-chair.php" class="performance">Performance</a></li>
-                        <li class="col-xs-1"><a href="../../sections/csc-board/csc-board.php" class="csc-board">CSC Board</a></li>
-                        <li class="col-xs-1"><a href="../../sections/governance/introduction.php" class="governance">Governance</a></li>
-                        <li class="col-xs-1"><a href="../../sections/investments/Introduction.php" class="investments ">Investments</a></li>
-                        <li class="col-xs-1"><a href="../../sections/super-schemes/Introduction.php" class="super-schemes">Super schemes</a></li>
-                        <li class="col-xs-1"><a href="../../sections/financial-statements/index.php" class="finstatements">Financial statements</a></li>
-                        <li class="col-xs-1"><a href="../../sections/appendices/appendix1.php" class="appendices">Appendices</a></li>
+            <nav class="navbar navbar-default">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="nabar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                </button>
+                </div>
+                <div id="navbar" class="navbar-collapse collapse" aria-expanded="false" style="height:1px">
+                    <ul class="nav navbar-nav">
+                        <li><a href="../../sections/introduction/about-csc.php" class="introduction">Introduction</a></li>
+                        <li><a href="../../sections/performance/report-from-the-chair.php" class="performance">Performance</a></li>
+                        <li><a href="../../sections/csc-board/csc-board.php" class="csc-board">CSC Board</a></li>
+                        <li><a href="../../sections/governance/introduction.php" class="governance">Governance</a></li>
+                        <li><a href="../../sections/investments/Introduction.php" class="investments ">Investments</a></li>
+                        <li><a href="../../sections/super-schemes/Introduction.php" class="super-schemes">Super schemes</a></li>
+                        <li><a href="../../sections/financial-statements/index.php" class="finstatements">Financial statements</a></li>
+                        <li><a href="../../sections/appendices/appendix1.php" class="appendices">Appendices</a></li>
                     </ul>
                 </div>
             </div>

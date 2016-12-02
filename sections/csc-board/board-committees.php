@@ -8,7 +8,7 @@
     
 		<?php include "side-nav.php" ?>
         
-		<div class="col-xs-8 content" id="startContent">
+		<div class="col-sm-8 col-xs-11 content" id="startContent">
 			<h1><?php echo $title ?></h1>
 	<p>
 		The Board has established committees to assist it in carrying out its responsibilities. Committee members are appointed by the Board. Each committee has its own documented and Board-approved terms of reference, which are reviewed from time to time.
@@ -281,6 +281,13 @@
 	<ul class="bottomnav">
     <li><a href="csc-board.php" class="back">Previous &#8211; CSC Board</a></li><li><a href="#topnav" class="top">Top</a></li><li><a href="../governance/introduction.php" class="next">Next &#8211; Governance</a></li>
 	</ul>
+	
+	<div class="btn-group" role="group">
+    <button type="button" class="btn btn-default"><a href="csc-board.php" class="back">Previous </a></button>
+	<button type="button" class="btn btn-default"><a href="#topnav" class="top">Top</a></button>
+	<button type="button" class="btn btn-default"><a href="../governance/introduction.php" class="next">Next</a></button>
+	</div>
+	
 </div>
 </div>
 </div>

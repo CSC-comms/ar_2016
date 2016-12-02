@@ -8,7 +8,7 @@
     
 		<?php include "side-nav.php" ?>
         
-		<div class="col-xs-8 content" id="startContent">
+		<div class="col-sm-8 col-xs-11 content" id="startContent">
 		  <h1><?php echo $title ?></h1>
                 <p>
                     The 1922 scheme, which was established under the 1922 Act, is a closed public sector scheme which solely comprises pensioners. Contributing members transferred to CSS when that scheme opened on 1 July 1976. The 1922 Act continues to provide for payment of pensions, deferred benefit entitlements and any reversionary pensions that become payable.
@@ -47,6 +47,13 @@
    	  <li><a href="#topnav" class="top">Top</a></li>
    	  <li><a href="DFRB-DFRDB-DFSPB.php" class="next">Next &#8211; DFRB, DFRDB and DFSPB</a></li>
 	</ul>
+	
+	<div class="btn-group" role="group">
+    <button type="button" class="btn btn-default"><a href="pssap.php" class="back">Previous </a></button>
+	<button type="button" class="btn btn-default"><a href="#topnav" class="top">Top</a></button>
+	<button type="button" class="btn btn-default"><a href="DFRB-DFRDB-DFSPB.php" class="next">Next</a></button>
+	</div>
+	
 </div>
 </div>
 </div>

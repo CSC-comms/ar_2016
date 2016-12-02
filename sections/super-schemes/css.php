@@ -8,7 +8,7 @@
   
 		<?php include "side-nav.php" ?>
         
-		<div class="col-xs-8 content" id="startContent">
+		<div class="col-sm-8 col-xs-11 content" id="startContent">
 		  <h1><?php echo $title ?></h1>
             <h2>Overview of CSS</h2>
             <p>
@@ -174,6 +174,13 @@
       <li><a href="#topnav" class="top">Top</a></li>
    	  <li><a href="pss.php" class="next">Next &#8211; PSS</a></li>
 	</ul>
+	
+	<div class="btn-group" role="group">
+    <button type="button" class="btn btn-default"><a href="Introduction.php" class="back">Previous </a></button>
+	<button type="button" class="btn btn-default"><a href="#topnav" class="top">Top</a></button>
+	<button type="button" class="btn btn-default"><a href="pss.php" class="next">Next</a></button>
+	</div>
+	
 </div>
 </div>
 </div>

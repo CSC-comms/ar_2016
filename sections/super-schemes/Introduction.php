@@ -9,7 +9,7 @@
 		
 			<?php include "side-nav.php" ?>
 				
-			<div class="col-xs-8 content" id="startContent">
+			<div class="col-sm-8 col-xs-11 content" id="startContent">
 					  <h1><?php echo $title ?></h1>
 				<p>
 					CSC manages 11 super schemes for Australian Government employees and members of the ADF. The functions CSC performs in relation to its super schemes are set out in its governing legislation (outlined on page 10–11 of this report). This section details CSC’s performance in relation to these functions for each scheme in 2015–16 (excluding ADF Super and ADF Cover, which both began on 1 July 2016).
@@ -193,6 +193,13 @@
 				  <li><a href="../investments/investment-options.php" class="back">Previous &#8211; Investment options</a></li><li><a href="#topnav" class="top">Top</a></li>
 				  <li><a href="css.php" class="next">Next &#8211; CSS</a></li>
 				</ul>
+				
+	<div class="btn-group" role="group">
+    <button type="button" class="btn btn-default"><a href="../investments/investment-options.php" class="back">Previous </a></button>
+	<button type="button" class="btn btn-default"><a href="#topnav" class="top">Top</a></button>
+	<button type="button" class="btn btn-default"><a href="css.php" class="next">Next</a></button>
+	</div>
+	
 			</div>
 		</div>
 	</div>

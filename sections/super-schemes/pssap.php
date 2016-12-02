@@ -8,7 +8,7 @@
     
 		<?php include "side-nav.php" ?>
         
-		<div class="col-xs-8 content" id="startContent">
+		<div class="col-sm-8 col-xs-11 content" id="startContent">
 		  <h1><?php echo $title ?></h1>
             <p>
                 PSSap is a public sector scheme established on 1 July 2005 by the PSSap Act. It is an accumulation plan. Members and employers pay money into the Fund, with investment returns calculated as a compound average rate of return after fees and taxes have been deducted. PSSap is open to eligible employees of participating employers under choice of fund legislation. Employers contribute 15.4% per annum on behalf of their employees.
@@ -208,6 +208,13 @@
    	  <li><a href="#topnav" class="top">Top</a></li>
    	  <li><a href="1922scheme.php" class="next">Next &#8211; 1922 scheme</a></li>
 	</ul>
+	
+	<div class="btn-group" role="group">
+    <button type="button" class="btn btn-default"><a href="militarysuper.php" class="back">Previous </a></button>
+	<button type="button" class="btn btn-default"><a href="#topnav" class="top">Top</a></button>
+	<button type="button" class="btn btn-default"><a href="1922scheme.php" class="next">Next</a></button>
+	</div>
+	
 </div>
 </div>
 </div>

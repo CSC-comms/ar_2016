@@ -8,7 +8,7 @@
     
 		<?php include "side-nav.php" ?>
         
-		<div class="col-xs-8 content" id="startContent">
+		<div class="col-sm-8 col-xs-11 content" id="startContent">
 		  <h1><?php echo $title ?></h1>
             <p>
                 PNG is a closed public sector scheme with no contributing members. Constituted under the <em>Superannuation (Papua New Guinea) Ordinance 1951</em>, PNG provided retirement benefits for employees of the administration of the Territory of Papua and New Guinea through the establishment of the Papua and New Guinea Superannuation Fund. Since 1 July 1976, the scheme has been administered in accordance with section 38 of the PNG Act.
@@ -45,6 +45,13 @@
    	  <li><a href="#topnav" class="top">Top</a></li>
    	  <li><a href="../financial-statements/index.php" class="next">Next &#8211; Financial Statements</a></li>
 	</ul>
+	
+	<div class="btn-group" role="group">
+    <button type="button" class="btn btn-default"><a href="DFRB-DFRDB-DFSPB.php" class="back">Previous </a></button>
+	<button type="button" class="btn btn-default"><a href="#topnav" class="top">Top</a></button>
+	<button type="button" class="btn btn-default"><a href="../financial-statements/index.php" class="next">Next</a></button>
+	</div>
+	
 </div>
 </div>
 </div>

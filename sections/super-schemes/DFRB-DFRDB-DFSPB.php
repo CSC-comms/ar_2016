@@ -8,7 +8,7 @@
     
 		<?php include "side-nav.php" ?>
         
-		<div class="col-xs-8 content" id="startContent">
+		<div class="col-sm-8 col-xs-11 content" id="startContent">
 		  <h1><?php echo $title ?></h1>
                 <h2>DFRB</h2>
                 <p>
@@ -176,6 +176,13 @@
    	  <li><a href="#topnav" class="top">Top</a></li>
    	  <li><a href="PNG.php" class="next">Next &#8211; PNG</a></li>
 	</ul>
+	
+	<div class="btn-group" role="group">
+    <button type="button" class="btn btn-default"><a href="1922scheme.php" class="back">Previous </a></button>
+	<button type="button" class="btn btn-default"><a href="#topnav" class="top">Top</a></button>
+	<button type="button" class="btn btn-default"><a href="PNG.php" class="next">Next</a></button>
+	</div>
+	
 </div>
 </div>
 </div>

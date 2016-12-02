@@ -8,7 +8,7 @@
     
 		<?php include "side-nav.php" ?>
         
-		<div class="col-xs-8 content" id="startContent">
+		<div class="col-sm-8 col-xs-11 content" id="startContent">
 		  <h1><?php echo $title ?></h1>
             <p>
                 MilitarySuper was established on 1 October 1991 by the MilitarySuper Act. MilitarySuper closed to new ADF entrants on 30 June 2016. ADF Super is now available to new ADF entrants. MilitarySuper members may choose to move to ADF Super or remain in MilitarySuper.
@@ -191,6 +191,13 @@
    	  <li><a href="#topnav" class="top">Top</a></li>
    	  <li><a href="pssap.php" class="next">Next &#8211; PSSap</a></li>
 	</ul>
+	
+	<div class="btn-group" role="group">
+    <button type="button" class="btn btn-default"><a href="pss.php" class="back">Previous </a></button>
+	<button type="button" class="btn btn-default"><a href="#topnav" class="top">Top</a></button>
+	<button type="button" class="btn btn-default"><a href="pssap.php" class="next">Next</a></button>
+	</div>
+	
 </div>
 </div>
 </div>

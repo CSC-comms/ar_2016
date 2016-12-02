@@ -8,7 +8,7 @@
     
 		<?php include "side-nav.php" ?>
         
-		<div class="col-xs-8 content" id="startContent">
+		<div class="col-sm-8 col-xs-11 content" id="startContent">
 		  <h1><?php echo $title ?></h1>
 	<p>
 		PSS is a public sector scheme established on 1 July 1990 by the PSS Act. It closed to new members on 30 June 2005. PSS is a defined benefit scheme where benefits generally derive from a member and employer component.
@@ -171,6 +171,13 @@
    	  <li><a href="#topnav" class="top">Top</a></li>
    	  <li><a href="militarysuper.php" class="next">Next &#8211; MilitarySuper</a></li>
 	</ul>
+	
+	<div class="btn-group" role="group">
+    <button type="button" class="btn btn-default"><a href="css.php" class="back">Previous </a></button>
+	<button type="button" class="btn btn-default"><a href="#topnav" class="top">Top</a></button>
+	<button type="button" class="btn btn-default"><a href="militarysuper.php" class="next">Next</a></button>
+	</div>
+	
 </div>
 </div>
 </div>

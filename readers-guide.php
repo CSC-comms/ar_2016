@@ -6,7 +6,7 @@
     
     <div class="container">
     	<div class="row">
-    <div class="col-xs-3 sidenav omega" id="sidenav">
+    <div class="col-sm-3 sidenav omega" id="sidenav">
 	<p class="sectiontitle">Annual Report 2016</p>
 	<h2><a id="top" title="Top of the page" name="top"></a>In this section</h2>
 	<ul>
@@ -15,7 +15,7 @@
 	</ul>
 		</div>
         
-		<div class="col-xs-8 content" id="startContent">
+		<div class="col-sm-8 col-xs-11 content" id="startContent">
 		  <h1><?php echo $title ?></h1>
     <p>The activities of CSC are guided by legislative and government requirements, and CSC’s vision, mission statement and strategic objectives.</p>
     <p>This report describes these activities in the 2015–16 financial year, satisfying the requirements of Division 2 of the GAGSS Act 2011 section 46 of the PGPA Act and <em>Public Governance, Performance and Accountability (Consequential and Transitional Provisions)
@@ -44,6 +44,13 @@ in 2016–17.</p>
 	<ul class="bottomnav">
     <li><a href="letter-of-transmittal.php" class="back">Previous &#8211; Letter of Transmittal</a></li><li><a href="#topnav" class="top">Top</a></li><li><a href="sections/introduction/about-csc.php" class="next">Next &#8211; About CSC</a></li>
 	</ul>
+	
+	<div class="btn-group" role="group">
+    <button type="button" class="btn btn-default"><a href="letter-of-transmittal.php" class="back">Previous </a></button>
+	<button type="button" class="btn btn-default"><a href="#topnav" class="top">Top</a></button>
+	<button type="button" class="btn btn-default"><a href="sections/introduction/about-csc.php" class="next">Next</a></button>
+	</div>
+	
 </div>
 </div>
 </div>

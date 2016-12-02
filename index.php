@@ -11,6 +11,10 @@
 	<ul class="bottomnav">
     <li><a href="#topnav" class="top">Top</a></li><li><a href="contents.php" class="next">Next &#8211; Contents </a></li>
 	</ul>
+	
+	<div class="btn-group" role="group">
+    <button type="button" class="btn btn-default"><a href="#topnav" class="top">Top</a></button><button type="button" class="btn btn-default"><a href="contents.php" class="next">Next</a></button>
+	</div>
 </div>
 </div>
 </div>

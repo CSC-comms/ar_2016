@@ -75,6 +75,13 @@
 	<ul class="bottomnav">
     <li><a href="index.php" class="back">Previous &#8211; Home</a></li><li><a href="#topnav" class="top">Top</a></li><li><a href="copyright.php" class="next">Next &#8211; Copyright statement </a></li>
 	</ul>
+	
+	<div class="btn-group" role="group">
+    <button type="button" class="btn btn-default"><a href="index.php" class="back">Previous </a></button>
+	<button type="button" class="btn btn-default"><a href="#topnav" class="top">Top</a></button>
+	<button type="button" class="btn btn-default"><a href="copyright.php" class="next">Next</a></button>
+	</div>
+	
 </div>
 </div>
 </div>

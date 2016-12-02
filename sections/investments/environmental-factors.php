@@ -8,7 +8,7 @@
     
 		<?php include "side-nav.php" ?>
         
-		<div class="col-xs-8 content" id="startContent">
+		<div class="col-sm-8 col-xs-11 content" id="startContent">
 		  <h1><?php echo $title ?></h1>
 	<p>
 		CSC is responsible for ensuring that member Funds are not exposed to undue risk because of poor governance. We actively pursue principles of good governance in our own operations and seek them in the companies in which we invest.
@@ -84,6 +84,13 @@ information visit msci.com</td>
    	  <li><a href="investment-governance.php" class="back">Previous &#8211; Investment governance</a></li><li><a href="#topnav" class="top">Top</a></li>
    	  <li><a href="investment-options.php" class="next">Next &#8211; Investment options</a></li>
 	</ul>
+	
+	<div class="btn-group" role="group">
+    <button type="button" class="btn btn-default"><a href="investment-governance.php" class="back">Previous </a></button>
+	<button type="button" class="btn btn-default"><a href="#topnav" class="top">Top</a></button>
+	<button type="button" class="btn btn-default"><a href="investment-options.php" class="next">Next</a></button>
+	</div>
+	
 </div>
 </div>
 </div>

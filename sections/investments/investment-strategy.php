@@ -9,7 +9,7 @@
     
 		<?php include "side-nav.php" ?>
         
-		<div class="col-xs-8 content" id="startContent">
+		<div class="col-sm-8 col-xs-11 content" id="startContent">
 		  <h1><?php echo $title ?></h1>
 	<p>
 		CSC’s investment strategy is focused on the provision of financial adequacy in retirement for all scheme members. The level of risk taking is measured and focused on maximising the probability of achieving targeted return objectives for each investment option.
@@ -23,6 +23,13 @@
    	  <li><a href="investment-approach.php" class="back">Previous &#8211; Investment approach</a></li><li><a href="#topnav" class="top">Top</a></li>
    	  <li><a href="investment-governance.php" class="next">Next &#8211; Investment governance</a></li>
 	</ul>
+	
+	<div class="btn-group" role="group">
+    <button type="button" class="btn btn-default"><a href="investment-approach.php" class="back">Previous </a></button>
+	<button type="button" class="btn btn-default"><a href="#topnav" class="top">Top</a></button>
+	<button type="button" class="btn btn-default"><a href="investment-governance.php" class="next">Next</a></button>
+	</div>
+	
 </div>
 </div>
 </div>

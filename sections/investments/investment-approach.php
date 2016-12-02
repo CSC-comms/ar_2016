@@ -9,7 +9,7 @@
     
 		<?php include "side-nav.php" ?>
         
-		<div class="col-xs-8 content" id="startContent">
+		<div class="col-sm-8 col-xs-11 content" id="startContent">
 		  <h1><?php echo $title ?></h1>
 	<p>
 		Part of CSC’s mission is to achieve consistent long-term returns within a structured risk framework. To achieve this, CSC manages and invests each Fund so as to achieve its stated investment objective, having regard to strictly-defined risk limits. Each Fund is also managed in a way that allows for the payment of monies to meet scheme member benefit payments, achieves equity among all members, and exercises reasonable care and prudence to maintain and grow the Funds.
@@ -29,6 +29,13 @@
    	  <li><a href="how-performance-affects.php" class="back">Previous &#8211; How performance affects a member’s benefit</a></li><li><a href="#topnav" class="top">Top</a></li>
    	  <li><a href="investment-strategy.php" class="next">Next &#8211; Investment strategy</a></li>
 	</ul>
+	
+	<div class="btn-group" role="group">
+    <button type="button" class="btn btn-default"><a href="how-performance-affects.php" class="back">Previous </a></button>
+	<button type="button" class="btn btn-default"><a href="#topnav" class="top">Top</a></button>
+	<button type="button" class="btn btn-default"><a href="investment-strategy.php" class="next">Next</a></button>
+	</div>
+	
 </div>
 </div>
 </div>

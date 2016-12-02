@@ -9,7 +9,7 @@
     
 		<?php include "side-nav.php" ?>
         
-		<div class="col-xs-8 content" id="startContent">
+		<div class="col-sm-8 col-xs-11 content" id="startContent">
 		  <h1><?php echo $title ?></h1>
 	<p>
 		CSC’s investment governance is focused on managing risk and is driven by our primary objective to achieve stated investment objectives within strictly defined risk limits. The CSC Board has agreed and established a comprehensive investment governance framework, which includes a clear statement of Board and Executive responsibilities.
@@ -76,6 +76,13 @@
    	  <li><a href="investment-strategy.php" class="back">Previous &#8211; Investment strategy</a></li><li><a href="#topnav" class="top">Top</a></li>
    	  <li><a href="environmental-factors.php" class="next">Next &#8211; Environmental, social and governance factors</a></li>
 	</ul>
+	
+	<div class="btn-group" role="group">
+    <button type="button" class="btn btn-default"><a href="investment-strategy.php" class="back">Previous </a></button>
+	<button type="button" class="btn btn-default"><a href="#topnav" class="top">Top</a></button>
+	<button type="button" class="btn btn-default"><a href="environmental-factors.php" class="next">Next</a></button>
+	</div>
+	
 </div>
 </div>
 </div>

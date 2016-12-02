@@ -1,4 +1,4 @@
-	<div class="col-xs-3 sidenav omega" id="sidenav">
+	<div class="col-sm-3 sidenav omega" id="sidenav">
 		<p class="sectiontitle">Reference material</p>
 		<h2><a id="top" title="Top of the page" name="top"></a>In this section</h2>
 		<ul>

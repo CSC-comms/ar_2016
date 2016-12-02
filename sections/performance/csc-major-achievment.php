@@ -7,7 +7,7 @@
     	<div class="row">
 			<?php include 'side-nav.php' ?>
         
-		<div class="col-xs-8 content" id="startContent">
+		<div class="col-sm-8 col-xs-11 content" id="startContent">
 			<h1><?php echo $title ?></h1>
     <div class="callout">
     <div class="row">
@@ -51,6 +51,13 @@
 	<ul class="bottomnav">
     <li><a href="report-from-the-chair.php" class="back">Previous &#8211; Report from the Chair</a></li><li><a href="#topnav" class="top">Top</a></li><li><a href="csc-annual-performance.php" class="next">Next &#8211; CSC's Annual Performance Statement</a></li>
 	</ul>
+	
+	<div class="btn-group" role="group">
+    <button type="button" class="btn btn-default"><a href="report-from-the-chair.php" class="back">Previous </a></button>
+	<button type="button" class="btn btn-default"><a href="#topnav" class="top">Top</a></button>
+	<button type="button" class="btn btn-default"><a href="csc-annual-performance.php" class="next">Next</a></button>
+	</div>
+	
 </div>
 </div>
 </div>

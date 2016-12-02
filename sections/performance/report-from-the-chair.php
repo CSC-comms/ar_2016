@@ -8,7 +8,7 @@
     	<div class="row">
 			<?php include 'side-nav.php' ?>
         
-		<div class="col-xs-8 content" id="startContent">
+		<div class="col-sm-8 col-xs-11 content" id="startContent">
 			<h1><?php echo $title ?></h1>
 	<p>
 		The 2015–16 financial year marked a milestone for the Australian superannuation industry.
@@ -170,6 +170,13 @@
 	<ul class="bottomnav">
     <li><a href="../overview/about-csc-members.php" class="back">Previous &#8211; About CSC members</a></li><li><a href="#topnav" class="top">Top</a></li><li><a href="csc-major-achievment.php" class="next">Next &#8211; CSC's major achievements</a></li>
 	</ul>
+	
+	<div class="btn-group" role="group">
+    <button type="button" class="btn btn-default"><a href="../overview/about-csc-members.php" class="back">Previous </a></button>
+	<button type="button" class="btn btn-default"><a href="#topnav" class="top">Top</a></button>
+	<button type="button" class="btn btn-default"><a href="csc-major-achievment.php" class="next">Next</a></button>
+	</div>
+	
 </div>
 </div>
 </div>

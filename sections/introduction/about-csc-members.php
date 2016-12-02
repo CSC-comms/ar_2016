@@ -9,7 +9,7 @@
 		
 		<?php include "side-nav.php" ?>
         
-		<div class="col-xs-8 content" id="startContent">
+		<div class="col-sm-8 col-xs-11 content" id="startContent">
 			<h1><?php echo $title ?></h1>
                 <p>
                     CSC’s schemes generally consist of two types of members: contributors, who are employed by a participating scheme employer (usually an Australian Government entity) or are members of the ADF; and deferred benefit members or preservers who do not contribute to their scheme because they no longer work for a participating employer or are no longer ADF members. These members maintain an account within their scheme and under scheme rules can generally become contributors again if they join a participating employer or rejoin the ADF.
@@ -26,6 +26,13 @@
 	<ul class="bottomnav">
     	<li><a href="about-csc-schemes.php" class="back">Previous &#8211; About CSC's schemes</a></li><li><a href="#top" class="top">Top</a></li><li><a href="../performance/report-from-the-chair.php" class="next">Next &#8211; Report from the Chair</a></li>
 	</ul>
+	
+	<div class="btn-group" role="group">
+    <button type="button" class="btn btn-default"><a href="about-csc-schemes.php" class="back">Previous </a></button>
+	<button type="button" class="btn btn-default"><a href="#topnav" class="top">Top</a></button>
+	<button type="button" class="btn btn-default"><a href="../performance/report-from-the-chair.php" class="next">Next</a></button>
+	</div>
+	
 </div>
 </div>
 </div>

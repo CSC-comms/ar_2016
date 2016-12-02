@@ -8,7 +8,7 @@
 		
 			<?php include "side-nav.php" ?>
 
-		<div class="col-xs-8 columns content" id="startContent">
+		<div class="col-sm-8 col-xs-11 columns content" id="startContent">
 			<h1><?php echo $title ?></h1>
 		  <p>CSC was established on 1 July 2011, following the passage of legislation to merge the Boards responsible for the public sector and military superannuation schemes and Funds.
 </p>
@@ -73,6 +73,13 @@
 	<ul class="bottomnav">
     	<li><a href="../../readers-guide.php" class="back">Previous &#8211; Reader's guide</a></li><li><a href="#top" class="top">Top</a></li><li><a href="about-csc-schemes.php" class="next">Next &#8211; About CSC's schemes</a></li>
 	</ul>
+	
+	<div class="btn-group" role="group">
+    <button type="button" class="btn btn-default"><a href="../../readers-guide.php" class="back">Previous </a></button>
+	<button type="button" class="btn btn-default"><a href="#topnav" class="top">Top</a></button>
+	<button type="button" class="btn btn-default"><a href="about-csc-schemes.php" class="next">Next</a></button>
+	</div>
+	
 </div>
 </div>
 </div>

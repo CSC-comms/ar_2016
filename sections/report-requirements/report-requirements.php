@@ -6,7 +6,7 @@
     
     <div class="container">
     <div class="row">
-    <div class="col-xs-3 sidenav omega" id="sidenav">
+    <div class="col-sm-3 sidenav omega" id="sidenav">
 	<p class="sectiontitle">Appendices</p>
 	<h2><a id="top" title="Top of the page" name="top"></a>In this section</h2>
 	<ul>
@@ -15,7 +15,7 @@
 	</ul>
 		</div>
         
-        <div class="col-xs-8 content" id="startContent">        
+        <div class="col-sm-8 col-xs-11 content" id="startContent">        
 		<div class="content" id="startContent">
 			<h1><?php echo $title ?></h1>
             <table class="table first-col-dark">
@@ -193,6 +193,12 @@
 <ul class="bottomnav">
     <li><a href="../appendices/glossary.php" class="back">Previous &#8211; Glossary</a></li><li><a href="#topnav" class="top">Top</a></li>
 	</ul>
+	
+	<div class="btn-group" role="group">
+    <button type="button" class="btn btn-default"><a href="../appendices/glossary.php" class="back">Previous </a></button>
+	<button type="button" class="btn btn-default"><a href="#topnav" class="top">Top</a></button>
+	</div>
+	
 </div>
 </div>
 </div>

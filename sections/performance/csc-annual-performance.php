@@ -151,7 +151,7 @@
 	<div class="btn-group" role="group">
     <button type="button" class="btn btn-default"><a href="csc-major-achievment.php" class="back">Previous </a></button>
 	<button type="button" class="btn btn-default"><a href="#topnav" class="top">Top</a></button>
-	<button type="button" class="btn btn-default"><a href="./csc-board/csc-board.php" class="next">Next</a></button>
+	<button type="button" class="btn btn-default"><a href="../csc-board/csc-board.php" class="next">Next</a></button>
 	</div>
 	
 </div>

@@ -168,11 +168,11 @@
 			</p>
 
 	<ul class="bottomnav">
-    <li><a href="../overview/about-csc-members.php" class="back">Previous &#8211; About CSC members</a></li><li><a href="#topnav" class="top">Top</a></li><li><a href="csc-major-achievment.php" class="next">Next &#8211; CSC's major achievements</a></li>
+    <li><a href="../introduction/about-csc-members.php" class="back">Previous &#8211; About CSC members</a></li><li><a href="#topnav" class="top">Top</a></li><li><a href="csc-major-achievment.php" class="next">Next &#8211; CSC's major achievements</a></li>
 	</ul>
 	
 	<div class="btn-group" role="group">
-    <button type="button" class="btn btn-default"><a href="../overview/about-csc-members.php" class="back">Previous </a></button>
+    <button type="button" class="btn btn-default"><a href="../introduction/about-csc-members.php" class="back">Previous </a></button>
 	<button type="button" class="btn btn-default"><a href="#topnav" class="top">Top</a></button>
 	<button type="button" class="btn btn-default"><a href="csc-major-achievment.php" class="next">Next</a></button>
 	</div>

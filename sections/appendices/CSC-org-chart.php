@@ -23,7 +23,7 @@ superannuation services, please find a downloadable version of our organisationa
 	</ul>
 	
 	<div class="btn-group" role="group">
-    <button type="button" class="btn btn-default"><a href="appendix-1.php" class="back">Previous </a></button>
+    <button type="button" class="btn btn-default"><a href="appendix1.php" class="back">Previous </a></button>
 	<button type="button" class="btn btn-default"><a href="#topnav" class="top">Top</a></button>
 	<button type="button" class="btn btn-default"><a href="glossary.php" class="next">Next</a></button>
 	</div>

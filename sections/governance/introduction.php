@@ -6,7 +6,7 @@
     
     <div class="container">
     	<div class="row">
-    <div class="col-xs-3 sidenav omega" id="sidenav">
+    <div class="col-sm-3 sidenav omega" id="sidenav">
 	<p class="sectiontitle">Governance</p>
 	<h2><a id="top" title="Top of the page" name="top"></a>In this section</h2>
 	<ul>
@@ -14,7 +14,7 @@
 	</ul>
 		</div>
         
-		<div class="col-xs-8 content" id="startContent">
+		<div class="col-sm-8 col-xs-11 content" id="startContent">
 		  <h1><?php echo $title ?></h1>
 	<p>
 		The CSC Board aspires to achieve best practice and to be a leader in governance policy and practice.
@@ -79,6 +79,13 @@
 	<ul class="bottomnav">
    	  <li><a href="../csc-board/board-committees.php" class="back">Previous &#8211; CSC's major achievements</a></li><li><a href="#topnav" class="top">Top</a></li><li><a href="../investments/Introduction.php" class="next">Next &#8211; Investments</a></li>
 	</ul>
+	
+	<div class="btn-group" role="group">
+    <button type="button" class="btn btn-default"><a href="../csc-board/board-committees.php" class="back">Previous </a></button>
+	<button type="button" class="btn btn-default"><a href="#topnav" class="top">Top</a></button>
+	<button type="button" class="btn btn-default"><a href="./investments/Introduction.php" class="next">Next</a></button>
+	</div>
+	
 </div>
 </div>
 </div>

@@ -1,12 +1,3 @@
-	  <div class="container">
-      <div class="row">
-      <div><!-- Section navigation at bottom for tablet and phone viewing -->
-      <p class="skipSectionPhone">Skip to section</p>
-	<ul class="bottomSectionNav">	
-        	<?php include 'sectionNav.inc.php'; ?>
-	  </ul>
-		</div>
-		<div class="row">
         <div class="container">
         <div class="row footer alpha">
         <div class="col-xs-5">
@@ -27,8 +18,6 @@
 		</div>
         </div>
 
-		</div>
-      </div>
 	</div><!-- container -->
 
 

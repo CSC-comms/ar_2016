@@ -9,11 +9,11 @@
 			<h1><a id="top" title="Top of the page" name="top"></a><?php echo $title ?></h1>
         <ul>
             <li><a href="copyright.php">Copyright statement</a></li>
-  			<li><a href="letter-of-transmittal.php">Letter of transmittal</a></li>
-            <li><a href="readers-guide.php">Reader's guide</a></li>
 		</ul> 
             <h2 class="notopmargin">Introduction</h2>
 		<ul>
+			<li><a href="letter-of-transmittal.php">Letter of transmittal</a></li>
+            <li><a href="readers-guide.php">Reader's guide</a></li>
 			<li><a href="sections/introduction/about-csc.php">About CSC</a></li>
             <li><a href="sections/introduction/about-csc-schemes.php">About CSC's schemes</a></li>
             <li><a href="sections/introduction/about-csc-members.php">About CSC's members</a></li>

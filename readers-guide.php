@@ -1,5 +1,5 @@
 <?php // This is where you add the page title, it also displays in the level 1 heading below
-	$title = 'Readers guide'; 
+	$title = "Reader's guide"; 
 	///////////////////////////////////////////////////
 	include 'includes/head.inc.top.php'; 
 	?>

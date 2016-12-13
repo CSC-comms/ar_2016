@@ -59,7 +59,7 @@
             </tr>
             <tr>
 			<td colspan="4">** Carbon emissions data is sourced from MSCI ESG Research and covers the MSCI ACWI universe of companies. For more
-information visit msci.com</td>
+information visit <a href="http://www.msci.com" target="blank">msci.com</a></td>
 			</tr>
 		</tfoot>
 		<tbody>

@@ -40,7 +40,7 @@
 	</p>
 	<h2>Regulatory requirements</h2>
 	<p>
-		CSC is established under the GAGSS Act and is responsible for the super schemes covered in this report. CSC’s objectives and functions as set out in its governing legislation are outlined in this report on page 10. CSC’s governing legislation also establishes accountability arrangements for CSC, including annual reports to the Parliament and audited financial statements.
+		CSC is established under the GAGSS Act and is responsible for the super schemes covered in this report. CSC’s objectives and functions as set out in its governing legislation are outlined in the <a href="../introduction/about-csc.php">About CSC section of this report</a>. CSC’s governing legislation also establishes accountability arrangements for CSC, including annual reports to the Parliament and audited financial statements.
 	</p>
 	<p>
 		CSC is a holder of a Registrable Superannuation Entity (RSE) licence and an Australian Financial Services (AFS) licence, meaning it is regulated by the Australian Securities and Investments Commission under the <em>Corporations Act 2001</em> and the Australian Prudential Regulation Authority under the <em>Superannuation Industry (Supervision) Act 1993</em>. CSC must uphold the conditions of both licences and comply with financial services law.

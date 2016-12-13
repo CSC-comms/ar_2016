@@ -10,6 +10,7 @@
         
 		<div class="col-sm-8 col-xs-11 content" id="startContent">
 		  <h1><?php echo $title ?></h1>
+			<h2>Overview of PNG</h2>
             <p>
                 PNG is a closed public sector scheme with no contributing members. Constituted under the <em>Superannuation (Papua New Guinea) Ordinance 1951</em>, PNG provided retirement benefits for employees of the administration of the Territory of Papua and New Guinea through the establishment of the Papua and New Guinea Superannuation Fund. Since 1 July 1976, the scheme has been administered in accordance with section 38 of the PNG Act.
             </p>

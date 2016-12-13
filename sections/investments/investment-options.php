@@ -17,7 +17,7 @@
 			<tr>
 				<th rowspan="2">Investment option (scheme)</th>
 				<th rowspan="2" class="text-left">Objective</th>
-				<th colspan="2">Risk</th>
+				<th colspan="2" style="text-align: centre;">Risk</th>
 				<th rowspan="2">Minimum suggested time frame</th>
 				<th rowspan="2">Target asset allocation (ranges)</th>
 				<th rowspan="2">CSCri target asset allocation (ranges)</th>
@@ -86,7 +86,7 @@ Risk</strong> booklet, which is part of each scheme’s <strong>Product Disclosu
 		Using earning rates or unit prices to calculate an investment performance figure for the 1 July 2015 to 30 June 2016 period will provide similar but not identical rates to the investment performance figures published below.
 	</p>
 	<p>
-		Analysis of CSC’s investment performance is included in the <strong>Chair’s report</strong> on pages 14–17 and in the <strong>Annual Performance Statement</strong> on pages 18–20. </p>
+		Analysis of CSC’s investment performance is included in the <a href="../performance/report-from-the-chair.php">Chair’s report</a> and in the <a href="../performance/csc-annual-performance.php">Annual Performance Statement</a>. </p>
 	<table class="table css">
 		<caption>Table 6: CSS investment performance to 30 June 2016</caption>
 		<thead>

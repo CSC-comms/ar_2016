@@ -27,7 +27,6 @@
 						&nbsp;<br>
 						Phone: <br>
 						Fax: <br>
-						Email: <br>
 						ABN: <br>
 						RSEL: <br>
 						Annual report: 
@@ -40,7 +39,6 @@
 						Canberra ACT 2601<br>
 						02 6263 6999<br>
 						02 6263 6900<br>
-						secretary@csc.gov.au<br>
 						48 882 817 243<br>
 						L0001397<br>
 						csc.gov.au/reports-and-information/annual-reports
@@ -73,8 +71,8 @@
 					19 415 776 361<br>
 					R1004649<br>
 					19415776361001<br>
-					css.gov.au<br>
-					css.gov.au/forms-and-publications/publications
+					<a href="http://www.css.gov.au" target="blank">css.gov.au</a><br>
+					<a href="http://www.css.gov.au/forms-and-publications/publications" target="blank">css.gov.au/forms-and-publications/publications</a>
 				</p>
 				</div>
 			</div>
@@ -102,8 +100,8 @@
 					74 172 177 893<br>
 					R1004595<br>
 					74172177893001<br>
-					pss.gov.au<br>
-					pss.gov.au/forms-and-publications/publications
+					<a href="http://www.pss.gov.au" target="blank">pss.gov.au</a><br>
+					<a href="http://www.pss.gov.au/forms-and-publications/publications" target="blank">pss.gov.au/forms-and-publications/publications</a>
 				</p>
 			</div>
             </div>
@@ -131,8 +129,8 @@
 					50 925 523 120<br>
 					R1000306<br>
 					50925523120001<br>
-					militarysuper.gov.au<br>
-					militarysuper.gov.au/forms-and-publications/publications
+					<a href="http://www.militarysuper.gov.au" target="blank">militarysuper.gov.au</a><br>
+					<a href="http://www.militarysuper.gov.au/forms-and-publications/publications" target="blank">militarysuper.gov.au/forms-and-publications/publications</a>
 				</p>
 			</div>
             </div>
@@ -160,8 +158,8 @@
 					65 127 917 725<br>
 					R1004601<br>
 					65127917725001<br>
-					pssap.gov.au<br>
-					pssap.gov.au/forms-and-publications/publications
+					<a href="http://www.pssap.gov.au" target="blank">pssap.gov.au</a><br>
+					<a href="http://www.pssap.gov.au/forms-and-publications/publications" target="blank">pssap.gov.au/forms-and-publications/publications</a>
 				</p>
 			</div>
             </div>
@@ -183,8 +181,8 @@
 				</div>
                 <div class="col-xs-2">
 				<p>
-					csc.gov.au<br>
-					csc.gov.au/reports-and-information/annual-reports
+					<a href="http://www.csc.gov.au" target="blank">csc.gov.au</a><br>
+					<a href="http://www.csc.gov.au/reports-and-information/annual-reports" target="blank">csc.gov.au/reports-and-information/annual-reports</a>
 				</p>
 			</div>
             </div>
@@ -206,8 +204,8 @@
 				</div>
                 <div class="col-xs-2">
 				<p>
-					dfrdb.gov.au<br>
-					dfrdb.gov.au/forms-and-publications/publications
+					<a href="http://www.dfrdb.gov.au" target="blank">dfrdb.gov.au</a><br>
+					<a href="http://www.dfrdb.gov.au/forms-and-publications/publications" target="blank">dfrdb.gov.au/forms-and-publications/publications</a>
 				</p>
 			</div>
             </div>
@@ -229,8 +227,8 @@
 				</div>
                 <div class="col-xs-2">
 				<p>
-					csc.gov.au<br>
-					csc.gov.au/reports-and-information/annual-reports
+					<a href="http://www.csc.gov.au" target="blank">csc.gov.au</a><br>
+					<a href="http://www.csc.gov.au/reports-and-information/annual-reports" target="blank">csc.gov.au/reports-and-information/annual-reports</a>
 				</p>
 			</div>
             </div>
@@ -252,8 +250,8 @@
 				</div>
                 <div class="col-xs-2">
 				<p>
-					csc.gov.au<br>
-					csc.gov.au/reports-and-information/annual-reports
+					<a href="http://www.csc.gov.au" target="blank">csc.gov.au</a><br>
+					<a href="http://www.csc.gov.au/reports-and-information/annual-reports" target="blank">csc.gov.au/reports-and-information/annual-reports</a>
 				</p>
 			</div>
            </div>

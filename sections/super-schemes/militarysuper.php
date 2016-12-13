@@ -10,6 +10,7 @@
         
 		<div class="col-sm-8 col-xs-11 content" id="startContent">
 		  <h1><?php echo $title ?></h1>
+			<h2>Overview of MilitarySuper</h2>
             <p>
                 MilitarySuper was established on 1 October 1991 by the MilitarySuper Act. MilitarySuper closed to new ADF entrants on 30 June 2016. ADF Super is now available to new ADF entrants. MilitarySuper members may choose to move to ADF Super or remain in MilitarySuper.
             </p>

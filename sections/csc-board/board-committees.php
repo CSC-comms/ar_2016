@@ -72,7 +72,7 @@
 					Board Governance Committee
 				</td>
 				<td>
-					<p>To assist the Board by advising and making recommendations on issues relevant to the corporate governance of CSC and the identification, education and evaluation of directors. Functions include</p>
+					<p>To assist the Board by advising and making recommendations on issues relevant to the corporate governance of CSC and the identification, education and evaluation of directors. Functions include:</p>
 					<ul>
 						<li>review of Board governance policies and procedures</li>
 						<li>review of the skills of the Board and its committees</li>
@@ -279,11 +279,11 @@
           
 		  
 	<ul class="bottomnav">
-    <li><a href="csc-board.php" class="back">Previous &#8211; CSC Board</a></li><li><a href="#topnav" class="top">Top</a></li><li><a href="../governance/introduction.php" class="next">Next &#8211; Governance</a></li>
+    <li><a href="directors-2015-16.php" class="back">Previous &#8211; Directors 2015-16</a></li><li><a href="#topnav" class="top">Top</a></li><li><a href="../governance/introduction.php" class="next">Next &#8211; Governance</a></li>
 	</ul>
 	
 	<div class="btn-group" role="group">
-    <button type="button" class="btn btn-default"><a href="csc-board.php" class="back">Previous </a></button>
+    <button type="button" class="btn btn-default"><a href="directors-2015-16.php" class="back">Previous </a></button>
 	<button type="button" class="btn btn-default"><a href="#topnav" class="top">Top</a></button>
 	<button type="button" class="btn btn-default"><a href="../governance/introduction.php" class="next">Next</a></button>
 	</div>

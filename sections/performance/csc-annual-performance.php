@@ -21,13 +21,13 @@
 			In CSC’s 2015–16 PGPA Corporate Plan and in the 2015–16 Portfolio Budget Statements, CSC’s two stated Outcomes were:
 		</p>
 		<table class="table last-column-dark">
-			<thead>
+			<thead class="text-left">
 				<tr>
 					<th>Outcome</th>
 					<th>Contributions to Outcome</th>
 				</tr>
 			</thead>
-			<tbody>
+			<tbody class="text-left">
 				<tr>
 					<td>1. Retirement benefits for past, present and future Australian Government employees and members of the Australia Defence Force through investment and administration of their superannuation funds and schemes.</td>
 					<td><strong>Programme 1.1:<br>Superannuation scheme governance</strong><br>The key objective for CSC in achieving its outcome is to maximise members’ superannuation account balances.</td>
@@ -47,13 +47,13 @@
 		</table>
 		<h2>Program 1.1 results: Superannuation scheme governance</h2>
 			<table class="table last-column-dark">
-				<thead>
+				<thead class="text-left">
 					<tr>
 						<th>Performance criteria</th>
 						<th>Results</th>
 					</tr>
 				</thead>
-				<tbody>
+				<tbody class="text-left">
 					<tr>
 						<td>
 							<ul>
@@ -76,7 +76,7 @@
 			</table>
 		<h2>Program 2.1 results: Superannuation administration services</h2>
 			<table class="table last-column-dark">
-				<thead>
+				<thead class="text-left">
 					<tr>
 						<th>Performance criteria</th>
 						<th>Results</th>
@@ -85,7 +85,7 @@
 				<tfoot>
 					<td colspan="2">Criteria source: CSC’s 2015–16 PGPA corporate plan (located at: csc.gov.au/storage/2015–16_PGPA_corpplan.pdf)</td>
 				</tfoot>
-				<tbody>
+				<tbody class="text-left">
 					<tr>
 						<td>
 							<ul>
@@ -119,17 +119,17 @@
 				Financial market performance throughout 2015–16 was quite volatile. This reflected an environment which was characterised by concerns over a slowdown in economic growth, particularly in China, a significant decline in commodity prices, particularly in oil, and the UK’s decision to exit from the European Union at the end of the year. In response, global central banks maintained very accommodative monetary policies, which helped to buoy the return from fixed interest markets.
 			</p>
 			<p>
-				Further analysis of CSC’s investment performance is provided in the Chair’s report on pages 14–17. Information on CSC’s investment approach, strategy and governance is provided in the Investment section of this report on pages 37–44.
+				Further analysis of CSC’s investment performance is provided in the <a href="report-from-the-chair.php">Chair’s report</a>. Information on CSC’s investment approach, strategy and governance is provided in the <a href="../investments/Introduction.php">Investment section of this report</a>.
 			</p>
 			<p>
-				All CSC’s compliance, RSE and AFS Licence holder obligations were met in 2015–16 including obtaining the regulatory approvals, systems and processes required to open CSC’s two new military superannuation schemes, ADF Super and ADF Cover, on 1 July 2016. Information on CSC’s governance approach is provided in the Governance section of this report on pages 33–35.
+				All CSC’s compliance, RSE and AFS Licence holder obligations were met in 2015–16 including obtaining the regulatory approvals, systems and processes required to open CSC’s two new military superannuation schemes, ADF Super and ADF Cover, on 1 July 2016. Information on CSC’s governance approach is provided in the <a href="../governance/introduction.php">Governance section of this report</a>.
 			</p>
 		<h4>Superannuation administration services</h4>
 			<p>
 				Member satisfaction with CSC’s super services was high in 2015–16, in particular for members who called our Customer Information Centre to receive general advice, attended a CSC seminar or webinar to learn more about their scheme, or obtained personal financial advice from an Industry Fund Services (IFS) financial planner. Members reported, on average, a high level of satisfaction with the quality of the service provided to them and a high level of satisfaction with the improvement in their knowledge as a result of the service provided to them.
 			</p>
 			<p>
-				More information about CSC’s superannuation services is provided on pages 47–48, including information on the ‘fee for service’ financial advice available to CSC members through CSC’s partnership with IFS.
+				More information about CSC’s superannuation services is provided in the <a href="../super-schemes/Introduction.php">Super Schemes section of this report</a>, including information on the ‘fee for service’ financial advice available to CSC members through CSC’s partnership with IFS.
 			</p>
 			<p>
 				Administration service standards were also maintained to a high level in 2015–16, with the most challenging area of work continuing to be the area of invalidity casework and reconsiderations for CSC’s military schemes.
@@ -141,7 +141,7 @@
 				The bank acknowledged its responsibility for the error, offered its apologies to CSC, and processes were reviewed to minimise any risk of a recurrence. CSC’s ability to meet this performance target is partly subject to the performance of CSC’s bank and pensioners’ banks, and a very small number of payments will always be rejected (eg due to changes in bank accounts not communicated to CSC).
 			</p>
 			<p>
-				Further information on the administration of CSC’s super schemes, including the service standards set for and achieved during 2015–16, is provided in the Super Schemes section of this report on pages 45–63.
+				Further information on the administration of CSC’s super schemes, including the service standards set for and achieved during 2015–16, is provided in the <a href="../super-schemes/Introduction.php">Super Schemes section of this report</a>.
 			</p>
 
 	<ul class="bottomnav">

@@ -10,6 +10,7 @@
         
 		<div class="col-sm-8 col-xs-11 content" id="startContent">
 		  <h1><?php echo $title ?></h1>
+			<h2>Overview of 1922 scheme</h2>
                 <p>
                     The 1922 scheme, which was established under the 1922 Act, is a closed public sector scheme which solely comprises pensioners. Contributing members transferred to CSS when that scheme opened on 1 July 1976. The 1922 Act continues to provide for payment of pensions, deferred benefit entitlements and any reversionary pensions that become payable.
                 </p>

@@ -56,11 +56,7 @@
          </ul>
             <h2>Financial statements</h2>
          <ul>
-            <li><a href="sections/financial-statements/Financial Statements CSS/financial-statements-css.php">CSS financial statements</a></li>
-            <li><a href="sections/financial-statements/Financial Statements PSS/financial-statement-pss.php">PSS financial statements</a></li>
-            <li><a href="sections/financial-statements/Financial Statements MS/financial-statement-ms.php">MilitarySuper financial statements</a></li>
-            <li><a href="sections/financial-statements/Financial Statements PSSap/financial-statement-pssap.php">PSSap financial statements</a></li>
-            <li><a href="sections/financial-statements/Financial Statements CSC/index.php">CSC financial statements</a></li>
+            <li><a href="sections/financial-statements/index.php">CSC financial statements</a></li>
          </ul>
             <h2>Appendices</h2>
          <ul>

@@ -38,7 +38,7 @@ in 2016–17.</p>
     <p>This section details how investment performance affects a member’s superannuation benefit. It also provides information on CSC’s investment approach, strategy, governance, environmental, social and governance practices, and investment options, and outlines investment performance to 30 June 2016.</p>
     <h2><a href="sections/super-schemes/Introduction.php">Super schemes</a></h2>
     <p>This section outlines the functions CSC performs in relation to its super schemes (as set out under its governing legislation) and details CSC’s performance in relation to these functions for each super scheme in 2015–16 (excluding ADF Super and ADF Cover, which both began on 1 July 2016).</p>
-    <h2><a href="sections/financial-statements/Financial Statements CSS/financial-statements-css.php">Financial statements</a></h2>
+    <h2><a href="sections/financial-statements/index.php">Financial statements</a></h2>
     <p>This section contains audited financial statements for each Fund and CSC.</p>
     <h2><a href="sections/appendices/appendix1.php">Appendices</a></h2>
     <p>The report includes appendices on legislative changes (excluding changes to scheme legislation and trust deeds in the reporting year, which are described in the Super schemes section) and a glossary.</p>

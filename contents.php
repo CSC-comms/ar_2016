@@ -56,7 +56,7 @@
          </ul>
             <h2>Financial statements</h2>
          <ul>
-            <li><a href="sections/financial-statements/index.php">CSC financial statements</a></li>
+            <li><a href="sections/financial-statements/index.php">Financial statements</a></li>
          </ul>
             <h2>Appendices</h2>
          <ul>

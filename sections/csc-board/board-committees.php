@@ -279,11 +279,11 @@
           
 		  
 	<ul class="bottomnav">
-    <li><a href="directors-2015-16.php" class="back">Previous &#8211; Directors 2015-16</a></li><li><a href="#topnav" class="top">Top</a></li><li><a href="../governance/introduction.php" class="next">Next &#8211; Governance</a></li>
+    <li><a href="directors-2015.16.php" class="back">Previous &#8211; Directors 2015-16</a></li><li><a href="#topnav" class="top">Top</a></li><li><a href="../governance/introduction.php" class="next">Next &#8211; Governance</a></li>
 	</ul>
 	
 	<div class="btn-group" role="group">
-    <button type="button" class="btn btn-default"><a href="directors-2015-16.php" class="back">Previous </a></button>
+    <button type="button" class="btn btn-default"><a href="directors-2015.16.php" class="back">Previous </a></button>
 	<button type="button" class="btn btn-default"><a href="#topnav" class="top">Top</a></button>
 	<button type="button" class="btn btn-default"><a href="../governance/introduction.php" class="next">Next</a></button>
 	</div>

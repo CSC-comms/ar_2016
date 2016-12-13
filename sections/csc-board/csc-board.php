@@ -60,13 +60,13 @@
 		</p>   
 		  
 	<ul class="bottomnav">
-    <li><a href="../performance/csc-annual-performance.php" class="back">Previous &#8211; CSC's Annual Performance Statement</a></li><li><a href="#topnav" class="top">Top</a></li><li><a href="board-committees.php" class="next">Next &#8211; Board Committees</a></li>
+    <li><a href="../performance/csc-annual-performance.php" class="back">Previous &#8211; CSC's Annual Performance Statement</a></li><li><a href="#topnav" class="top">Top</a></li><li><a href="directors-2015.16.php" class="next">Next &#8211; Board Committees</a></li>
 	</ul>
 	
 	<div class="btn-group" role="group">
     <button type="button" class="btn btn-default"><a href="../performance/csc-annual-performance.php" class="back">Previous </a></button>
 	<button type="button" class="btn btn-default"><a href="#topnav" class="top">Top</a></button>
-	<button type="button" class="btn btn-default"><a href="board-committees.php" class="next">Next</a></button>
+	<button type="button" class="btn btn-default"><a href="directors-2015.16.php" class="next">Next</a></button>
 	</div>
 	
 </div>

@@ -16,7 +16,7 @@
 		</div>
         
         <div class="col-sm-8 col-xs-11 content" id="startContent">        
-		<div class="content" id="startContent">
+		<div class="content">
 			<h1><?php echo $title ?></h1>
             <table class="table first-col-dark">
 	<caption>Table 29: Index of CSC’s annual reporting requirements</caption>

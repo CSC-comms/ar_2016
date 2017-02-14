@@ -10,7 +10,7 @@
     <?php include "side-nav.php" ?>
         
         <div class="col-sm-8 col-xs-11 content" id="startContent">        
-		<div class="content" id="startContent">
+		<div class="content">
 			<h1><?php echo $title ?></h1>
          <p>CSC is structured as a fully integrated provider of
 superannuation services, please find a downloadable version of our organisational chart:</p>

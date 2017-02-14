@@ -11,7 +11,6 @@
         
 		<div class="col-sm-8 col-xs-11 content" id="startContent">
 		  <h1><?php echo $title ?></h1>
-    <h1></h1>
 	<p>
 		The impact of investment performance on a member’s benefit differs across the schemes. For PSS contributors, investment returns do not affect their final benefit because they have a defined benefit. Performance has a greater impact on contributor and deferred benefit members in CSS and preservers in PSS because in those circumstances it does directly influence a member’s final benefit.
 	</p>

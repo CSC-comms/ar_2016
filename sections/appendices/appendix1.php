@@ -10,7 +10,7 @@
 		<?php include "side-nav.php" ?>
         
         <div class="col-sm-8 col-xs-11 content" id="startContent">        
-		<div class="content" id="startContent">
+		<div class="content">
 			<h1><?php echo $title ?></h1>
             <div class="scrollable ">
             <h2>Governance of <em>Australian Government Superannuation Schemes Act 2011 (GAGSS Act)</em></h2>
